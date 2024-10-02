@@ -10,7 +10,7 @@
 # ”sudo /bin/bash <ScriptName>”
 
 D=`date +%m-%d_%H`
-Report=/opt/healthcheck/reports/Digipi_Health.$D
+Report=/opt/kiosk/healthcheck/reports/Digipi_Health.$D
 echo "Health Report: $D"
 
 echo "############################################

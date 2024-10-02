@@ -26,3 +26,7 @@ xset dpms force on >> $logfile 2>&1
 /opt/kiosk/kiosk.sh & >> $logfile 2>&1
 echo "started kiosk startup script" >> $logfile
 
+
+# notify
+notify-send -u low -t 30000 "DigiSign successfully woke from sleep"
+
