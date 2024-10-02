@@ -522,3 +522,47 @@ killed chrome jobs
 
 script started at: Wed Oct  2 11:21:47 AM MDT 2024
 started kiosk startup script
+
+
+*************************
+--------- SLEEP ---------
+Script started at: Wed Oct  2 11:56:55 AM MDT 2024
+-------------------------
+*************************
+
+
+xset init
+xset force off completed
+killed chrome jobs
+============ DEV TEST COMPLETE ============
+
+
+************
+--- WAKE ---
+************
+
+
+script started at: Wed Oct  2 11:57:16 AM MDT 2024
+started kiosk startup script
+
+
+*************************
+--------- SLEEP ---------
+Script started at: Wed Oct  2 12:05:04 PM MDT 2024
+-------------------------
+*************************
+
+
+xset init
+xset force off completed
+killed chrome jobs
+============ DEV TEST COMPLETE ============
+
+
+************
+--- WAKE ---
+************
+
+
+script started at: Wed Oct  2 12:05:20 PM MDT 2024
+started kiosk startup script
