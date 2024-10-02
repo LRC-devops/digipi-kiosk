@@ -13,7 +13,7 @@ CONFIG_FILE="/opt/kiosk/db/config.txt"
 source $CONFIG_FILE
 
 # notify
-notify-send -u critical -t 5000 "digipi shutdown started..."
+sudo -u digipi notify-send -u critical -t 5000 "digipi shutdown started..."
 
 
 echo "--- --- ---" >> $LOGFILE
@@ -26,7 +26,7 @@ WAKEUP_TIME_UTC=$(date +%s -d "$weekend_wakeup" -u)
 sudo rtcwake -m no -t $WAKEUP_TIME_UTC >> $LOGFILE 2>&1
 
 # notify
-notify-send -u critical -t 5000 "Digipi is scheduled to wake at/on $weekend_wakeup"
+ sudo -u digipi notify-send -u critical -t 5000 "Digipi is scheduled to wake at/on $weekend_wakeup"
 
 echo "rtcwake command issued" >> $LOGFILE
 echo "rtc wake command issued for $weekend_wakeup ($WAKEUP_TIME_UTC)
@@ -37,7 +37,7 @@ echo "rtc wake command issued for $weekend_wakeup ($WAKEUP_TIME_UTC)
 "
 
 # notify
-notify-send -u critical -t 10000 "Shutting down in 10 seconds..."
+ sudo -u digipi notify-send -u critical -t 10000 "Shutting down in 10 seconds..."
 sleep 10
 
 sudo /sbin/shutdown -h now >> $LOGFILE 2>&1

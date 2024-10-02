@@ -26,5 +26,4 @@ chromium-browser --noerrdialogs --disable-infobars --kiosk https://www.digisign.
 notify-send -u normal -t 60000 "DigiPi Kiosk Started Successfully!
 
 `/opt/kiosk/healthcheck/health-status.sh`
-IpAddress: `hostname -I`
-"
+IPv4 & IPv6: `hostname -I`"
