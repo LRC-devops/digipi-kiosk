@@ -1,0 +1,39 @@
+#!/bin/bash
+# Author : Caleb Theil 
+# Github page : https://github.com/ctheil
+#####################################################
+# Tested on : Debian (RaspberryPi OS (with desktop))
+# Updated version : v1.1 (Updated on October-2024)
+#####################################################
+# Purpose : Turn the display off and kill chrome instances. This should allow the host TV to sleep.
+# NOTE: This script must be executed by the 'digipi' user due to the ENV and DISPLAY requriements.
+# ”su -c '/opt/kiosk/sleep_mode' digipi"
+
+logfile="/opt/kiosk/db/sleep.log"
+
+echo "
+
+*************************
+--------- SLEEP ---------
+Script started at: $(date)
+-------------------------
+*************************
+
+" >> $logfile
+
+xset s off >> $logfile 2>&1
+xset -dpms >> $logfile 2>&1
+xset s blank >> $logfile 2>&1
+
+echo "xset init" >> $logfile
+
+xset dpms force off
+
+
+echo "xset force off completed" >> $logfile
+
+pkill chromium 
+
+echo "killed chrome jobs" >> $logfile
+
+echo "============ DEV TEST COMPLETE ============" >> $logfile

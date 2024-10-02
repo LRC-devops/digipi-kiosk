@@ -1,0 +1,28 @@
+#!/bin/bash
+# Author : Caleb Theil 
+# Github page : https://github.com/ctheil
+#####################################################
+# Tested on : Debian (RaspberryPi OS (with desktop))
+# Updated version : v1.1 (Updated on October-2024)
+#####################################################
+# Purpose : Force the display back on, then execute the kiosk.sh script
+# NOTE: This script must be executed by the 'digipi' user due to the ENV and DISPLAY requriements.
+# ”su -c '/opt/kiosk/sleep_mode' digipi"
+logfile="/opt/kiosk/db/sleep.log"
+
+echo "
+
+************
+--- WAKE ---
+************
+
+" >> $logfile
+echo "script started at: $(date)" >> $logfile
+
+
+xset dpms force on >> $logfile 2>&1
+
+# If this script is executed as the 'digipi' user, this script execution below should also be executed by digipi?
+/opt/kiosk/kiosk.sh & >> $logfile 2>&1
+echo "started kiosk startup script" >> $logfile
+

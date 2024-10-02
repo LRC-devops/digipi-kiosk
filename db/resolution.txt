@@ -1,0 +1,1 @@
+default_resolution="2560x1440"

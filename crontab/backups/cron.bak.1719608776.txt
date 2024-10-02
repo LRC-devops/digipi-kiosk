@@ -1,0 +1,16 @@
+# Automatic Updates daily @ 2AM
+0 2 * * * apt update && apt upgrade -y
+
+# Sleep Schedule @ 10 PM
+0 22 * * * sudo -u digipi /opt/kiosk/sleep_mode
+# Wake Schedule @ 10 PM
+0 7 * * * sudo -u digipi /opt/kiosk/wake_mode
+
+# Weekend Shutdown (with scheduled wakeup) @ 10 PM on Fridays
+0 22 * * 5 /opt/kiosk/shutdown
+
+#DEV
+# Sleep Schedule @ 10 PM
+30 11 * * * sudo -u digipi /opt/kiosk/sleep_mode
+# Wake Schedule @ 10 PM
+40 11 * * * sudo -u digipi /opt/kiosk/wake_mode

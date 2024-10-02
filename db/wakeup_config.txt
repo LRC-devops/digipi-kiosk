@@ -1,0 +1,4 @@
+weekend_wakeup="2 minutes"
+
+bak_weekend_wakeup_bak="next mon 07:00 UTC"
+

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+BACKUP_FILE="/opt/kiosk/crontab/backups/cron.bak.$(date +%s).txt"
+
+touch $BACKUP_FILE
+
+sudo crontab -l > $BACKUP_FILE

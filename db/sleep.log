@@ -1,0 +1,524 @@
+--- SLEEP ---
+   Test Complete    
+--- SLEEP ---
+Script started at: Tue Oct  1 05:26:52 PM MDT 2024
+Invalid MIT-MAGIC-COOKIE-1 key
+xset:  unable to open display ":0"
+Invalid MIT-MAGIC-COOKIE-1 key
+xset:  unable to open display ":0"
+Invalid MIT-MAGIC-COOKIE-1 key
+xset:  unable to open display ":0"
+xset init
+xset force off completed
+killed chrome jobs
+--- SLEEP ---
+Script started at: Tue Oct  1 05:27:02 PM MDT 2024
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+xset init
+xset force off completed
+killed chrome jobs
+--- SLEEP ---
+Script started at: Tue Oct  1 05:29:08 PM MDT 2024
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+xset init
+xset force off completed
+killed chrome jobs
+--- SLEEP ---
+Script started at: Tue Oct  1 05:46:24 PM MDT 2024
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+xset init
+xset force off completed
+killed chrome jobs
+--- wake ---
+script started at: Tue Oct  1 05:47:21 PM MDT 2024
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+Can't open display :0
+[15835:15835:1001/174721.956936:ERROR:zygote_host_impl_linux.cc(101)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+started kiosk startup script
+--- wake ---
+script started at: Tue Oct  1 05:47:54 PM MDT 2024
+Invalid MIT-MAGIC-COOKIE-1 key
+xset:  unable to open display ":0"
+Invalid MIT-MAGIC-COOKIE-1 key
+xset:  unable to open display ":0"
+Invalid MIT-MAGIC-COOKIE-1 key
+xset:  unable to open display ":0"
+Invalid MIT-MAGIC-COOKIE-1 key
+xset:  unable to open display ":0"
+Invalid MIT-MAGIC-COOKIE-1 key
+Can't open display :0
+Invalid MIT-MAGIC-COOKIE-1 key
+[15873:15873:1001/174754.846465:ERROR:ozone_platform_x11.cc(244)] Missing X server or $DISPLAY
+[15873:15873:1001/174754.846514:ERROR:env.cc(258)] The platform failed to initialize.  Exiting.
+started kiosk startup script
+\n--- WAKE ---\n
+script started at: Tue Oct  1 05:48:40 PM MDT 2024
+Invalid MIT-MAGIC-COOKIE-1 key
+xset:  unable to open display ":0"
+Invalid MIT-MAGIC-COOKIE-1 key
+xset:  unable to open display ":0"
+Invalid MIT-MAGIC-COOKIE-1 key
+xset:  unable to open display ":0"
+Invalid MIT-MAGIC-COOKIE-1 key
+xset:  unable to open display ":0"
+Invalid MIT-MAGIC-COOKIE-1 key
+Can't open display :0
+Invalid MIT-MAGIC-COOKIE-1 key
+[15926:15926:1001/174840.844616:ERROR:ozone_platform_x11.cc(244)] Missing X server or $DISPLAY
+[15926:15926:1001/174840.844661:ERROR:env.cc(258)] The platform failed to initialize.  Exiting.
+started kiosk startup script
+Script started at: Tue Oct  1 05:49:34 PM MDT 2024
+Invalid MIT-MAGIC-COOKIE-1 key
+xset:  unable to open display ":0"
+Invalid MIT-MAGIC-COOKIE-1 key
+xset:  unable to open display ":0"
+Invalid MIT-MAGIC-COOKIE-1 key
+xset:  unable to open display ":0"
+xset init
+xset force off completed
+killed chrome jobs
+
+
+************
+--- WAKE ---
+************
+
+
+script started at: Tue Oct  1 05:49:38 PM MDT 2024
+Invalid MIT-MAGIC-COOKIE-1 key
+xset:  unable to open display ":0"
+Invalid MIT-MAGIC-COOKIE-1 key
+xset:  unable to open display ":0"
+Invalid MIT-MAGIC-COOKIE-1 key
+xset:  unable to open display ":0"
+Invalid MIT-MAGIC-COOKIE-1 key
+xset:  unable to open display ":0"
+Invalid MIT-MAGIC-COOKIE-1 key
+Can't open display :0
+Invalid MIT-MAGIC-COOKIE-1 key
+[15987:15987:1001/174938.393996:ERROR:ozone_platform_x11.cc(244)] Missing X server or $DISPLAY
+[15987:15987:1001/174938.394041:ERROR:env.cc(258)] The platform failed to initialize.  Exiting.
+started kiosk startup script
+Script started at: Tue Oct  1 05:56:13 PM MDT 2024
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+xset init
+xset force off completed
+killed chrome jobs
+
+
+************
+--- WAKE ---
+************
+
+
+script started at: Tue Oct  1 05:56:44 PM MDT 2024
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+Can't open display :0
+[1799:1799:1001/175644.489008:ERROR:zygote_host_impl_linux.cc(101)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+started kiosk startup script
+Script started at: Tue Oct  1 05:57:34 PM MDT 2024
+============ DEV TEST COMPLETE ============
+
+
+*************
+--- SLEEP ---
+*************
+
+
+Script started at: Tue Oct  1 05:58:03 PM MDT 2024
+============ DEV TEST COMPLETE ============
+
+
+*************
+--- SLEEP ---
+*************
+
+
+Script started at: Tue Oct  1 05:58:38 PM MDT 2024
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+============ DEV TEST COMPLETE ============
+
+
+*************
+--- SLEEP ---
+*************
+Script started at: Tue Oct  1 05:59:19 PM MDT 2024
+
+
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+============ DEV TEST COMPLETE ============
+
+
+*************
+--- SLEEP ---
+*************
+Script started at: Tue Oct  1 05:59:32 PM MDT 2024
+
+
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+============ DEV TEST COMPLETE ============
+
+
+*************
+--------- SLEEP ---------
+Script started at: Tue Oct  1 06:00:07 PM MDT 2024
+-------------------------
+*************
+
+
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+============ DEV TEST COMPLETE ============
+hello world
+
+
+************
+--- WAKE ---
+************
+
+
+script started at: Wed Oct  2 09:32:39 AM MDT 2024
+Opening in existing browser session.
+started kiosk startup script
+
+
+*************************
+--------- SLEEP ---------
+Script started at: Wed Oct  2 09:33:16 AM MDT 2024
+-------------------------
+*************************
+
+
+============ DEV TEST COMPLETE ============
+
+
+*************************
+--------- SLEEP ---------
+Script started at: Wed Oct  2 09:33:32 AM MDT 2024
+-------------------------
+*************************
+
+
+xset init
+xset force off completed
+killed chrome jobs
+============ DEV TEST COMPLETE ============
+
+
+*************************
+--------- SLEEP ---------
+Script started at: Wed Oct  2 09:49:20 AM MDT 2024
+-------------------------
+*************************
+
+
+xset init
+xset force off completed
+killed chrome jobs
+============ DEV TEST COMPLETE ============
+
+
+************
+--- WAKE ---
+************
+
+
+script started at: Wed Oct  2 09:49:35 AM MDT 2024
+find: Failed to restore initial working directory: /home/lrc: Permission denied
+[1460:1494:1002/094935.717040:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1460:1494:1002/094935.717211:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1460:1494:1002/094935.717409:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1460:1494:1002/094935.717665:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1460:1494:1002/094935.717687:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1460:1494:1002/094935.766863:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1460:1494:1002/094935.766917:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1460:1491:1002/094935.809365:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1460:1494:1002/094935.830030:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1460:1494:1002/094935.830080:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1460:1460:1002/094935.989468:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[1460:1491:1002/094935.989555:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1460:1460:1002/094936.037976:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[1460:1490:1002/094936.038070:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1460:1460:1002/094936.041376:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[1460:1505:1002/094936.041548:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1460:1460:1002/094936.042725:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[1460:1503:1002/094936.042988:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1460:1460:1002/094936.044475:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+[1512:1512:1002/094936.521601:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1512:1512:1002/094936.521708:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1512:1512:1002/094936.521795:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1512:1512:1002/094936.521833:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1512:1512:1002/094936.521899:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1512:1512:1002/094936.521936:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1512:1512:1002/094936.522000:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1512:1512:1002/094936.522035:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1512:1512:1002/094936.522092:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1512:1512:1002/094936.522128:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1512:1512:1002/094936.522184:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1512:1512:1002/094936.522220:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1512:1512:1002/094936.522279:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1512:1512:1002/094936.522314:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1512:1512:1002/094936.523702:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1512:1512:1002/094936.523749:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1512:1512:1002/094936.523820:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1512:1512:1002/094936.523868:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1512:1512:1002/094936.523927:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1512:1512:1002/094936.523962:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1512:1512:1002/094936.524016:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1512:1512:1002/094936.524050:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1512:1512:1002/094936.524108:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1512:1512:1002/094936.524141:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1512:1512:1002/094936.524195:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1512:1512:1002/094936.524228:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1512:1512:1002/094936.524283:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1512:1512:1002/094936.524317:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1512:1565:1002/094936.533113:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1512:1565:1002/094936.533369:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+started kiosk startup script
+
+
+************
+--- WAKE ---
+************
+
+
+script started at: Wed Oct  2 09:50:26 AM MDT 2024
+[1584:1616:1002/095026.773520:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1584:1616:1002/095026.773672:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1584:1616:1002/095026.773699:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1584:1616:1002/095026.773717:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1584:1616:1002/095026.774141:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1584:1616:1002/095026.811935:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1584:1616:1002/095026.812009:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1584:1615:1002/095026.859681:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1584:1616:1002/095026.885239:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1584:1616:1002/095026.885289:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1584:1584:1002/095027.056157:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[1584:1614:1002/095027.056325:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1584:1584:1002/095027.112083:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[1584:1615:1002/095027.112173:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1584:1584:1002/095027.116776:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[1584:1618:1002/095027.116905:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1584:1584:1002/095027.119344:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[1584:1629:1002/095027.119537:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1584:1584:1002/095027.119859:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+[1636:1636:1002/095027.492305:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1636:1636:1002/095027.492420:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1636:1636:1002/095027.492522:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1636:1636:1002/095027.492572:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1636:1636:1002/095027.492640:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1636:1636:1002/095027.492692:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1636:1636:1002/095027.492760:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1636:1636:1002/095027.492803:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1636:1636:1002/095027.492871:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1636:1636:1002/095027.492917:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1636:1636:1002/095027.492980:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1636:1636:1002/095027.493029:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1636:1636:1002/095027.493093:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1636:1636:1002/095027.493148:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1636:1636:1002/095027.494507:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1636:1636:1002/095027.494559:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1636:1636:1002/095027.494626:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1636:1636:1002/095027.494673:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1636:1636:1002/095027.494742:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1636:1636:1002/095027.494788:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1636:1636:1002/095027.494856:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1636:1636:1002/095027.494904:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1636:1636:1002/095027.494968:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1636:1636:1002/095027.495009:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1636:1636:1002/095027.495077:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1636:1636:1002/095027.495118:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1636:1636:1002/095027.495183:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1636:1636:1002/095027.495223:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1636:1690:1002/095027.504216:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1636:1690:1002/095027.504468:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+
+*************************
+--------- SLEEP ---------
+Script started at: Wed Oct  2 09:51:02 AM MDT 2024
+-------------------------
+*************************
+
+
+xset init
+[1636:1636:1002/095102.284163:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+xset force off completed
+killed chrome jobs
+============ DEV TEST COMPLETE ============
+started kiosk startup script
+
+
+************
+--- WAKE ---
+************
+
+
+script started at: Wed Oct  2 09:51:22 AM MDT 2024
+started kiosk startup script
+
+
+************
+--- WAKE ---
+************
+
+
+script started at: Wed Oct  2 09:52:30 AM MDT 2024
+started kiosk startup script
+
+
+*************************
+--------- SLEEP ---------
+Script started at: Wed Oct  2 09:53:47 AM MDT 2024
+-------------------------
+*************************
+
+
+xset init
+xset force off completed
+killed chrome jobs
+============ DEV TEST COMPLETE ============
+
+
+************
+--- WAKE ---
+************
+
+
+script started at: Wed Oct  2 09:54:08 AM MDT 2024
+started kiosk startup script
+
+
+*************************
+--------- SLEEP ---------
+Script started at: Wed Oct  2 09:54:26 AM MDT 2024
+-------------------------
+*************************
+
+
+xset init
+xset force off completed
+killed chrome jobs
+============ DEV TEST COMPLETE ============
+
+
+************
+--- WAKE ---
+************
+
+
+script started at: Wed Oct  2 09:54:34 AM MDT 2024
+started kiosk startup script
+
+
+*************************
+--------- SLEEP ---------
+Script started at: Wed Oct  2 09:56:01 AM MDT 2024
+-------------------------
+*************************
+
+
+xset init
+xset force off completed
+killed chrome jobs
+============ DEV TEST COMPLETE ============
+
+
+************
+--- WAKE ---
+************
+
+
+script started at: Wed Oct  2 09:57:01 AM MDT 2024
+started kiosk startup script
+
+
+*************************
+--------- SLEEP ---------
+Script started at: Wed Oct  2 11:21:31 AM MDT 2024
+-------------------------
+*************************
+
+
+xset init
+xset force off completed
+killed chrome jobs
+============ DEV TEST COMPLETE ============
+
+
+************
+--- WAKE ---
+************
+
+
+script started at: Wed Oct  2 11:21:47 AM MDT 2024
+started kiosk startup script
