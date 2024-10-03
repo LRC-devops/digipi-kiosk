@@ -35,3 +35,13 @@ Script started at: Wed Oct  2 10:38:22 AM MDT 2024
 rtcwake: wakeup using /dev/rtc0 at Wed Oct  2 16:40:22 2024
 rtcwake command issued
 Shutdown command issued at: Wed Oct  2 10:38:32 AM MDT 2024
+--- --- ---
+Script started at: Wed Oct  2 01:16:01 PM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Wed Oct  2 19:18:01 2024
+rtcwake command issued
+Shutdown command issued at: Wed Oct  2 01:16:11 PM MDT 2024
+--- --- ---
+Script started at: Wed Oct  2 01:28:01 PM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Wed Oct  2 19:30:01 2024
+rtcwake command issued
+Shutdown command issued at: Wed Oct  2 01:28:11 PM MDT 2024
