@@ -1,0 +1,25 @@
+#!/bin/bash
+# Author : Caleb Theil 
+# Github page : https://github.com/ctheil
+#####################################################
+# Tested on : Debian (RaspberryPi OS (with desktop))
+# Updated version : v1.0 (Updated on October-2024)
+#####################################################
+# Purpose : Confirm that a chromium browser is focused; issue `F5` refresh command
+# NOTE: This script must be executed by the `digipi` user to acces the user's focused window and the DISPLAY env
+# "sudo -u digipi /opt/kiosk/refresh"
+
+logfile="/opt/kiosk/db/logs/error.log"
+
+echo "
+*** REFRESH ***
+$(date)
+***************
+" >> $logfile
+
+
+xdotool windowactivate --sync `xdotool search --name "LRC DigiSign"` >> $logfile 2>&1 
+
+sleep 0.1
+
+xdotool key --clearmodifiers F5 >> $logfile 2>&1 

@@ -8,7 +8,8 @@
 # Purpose : Force the display back on, then execute the kiosk.sh script
 # NOTE: This script must be executed by the 'digipi' user due to the ENV and DISPLAY requriements.
 # ”su -c '/opt/kiosk/sleep_mode' digipi"
-logfile="/opt/kiosk/db/sleep.log"
+
+logfile="/opt/kiosk/db/logs/sleep.log"
 
 echo "
 
