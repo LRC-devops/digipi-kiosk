@@ -10,17 +10,24 @@
 # ”su -c '/opt/kiosk/kiosk.sh' digipi"
 
 RES_FILE="/opt/kiosk/db/config.txt"
+logfile="/opt/kiosk/db/logs/error.log"
 source $RES_FILE
 
+echo "
+*** KIOSK ***
+$(date)
+*************
+" >> $logfile
+
 # DISABLE SCREEN BLANKING
-xset s off
-xset -dpms
-xset s noblank
+xset s off >> $logfile 2>&1
+xset -dpms >> $logfile 2>&1
+xset s noblank >> $logfile 2>&1
 
 #SET DEFAULT RES
-xrandr --output HDMI-1 --mode $default_resolution -r $default_refresh_rate
+xrandr --output HDMI-1 --mode $default_resolution -r $default_refresh_rate >> $logfile 2>&1
 
-chromium-browser --noerrdialogs --disable-infobars --kiosk https://www.digisign.learning-resources-center.com --disable-translate
+chromium-browser --noerrdialogs --disable-infobars --kiosk https://www.digisign.learning-resources-center.com --disable-translate >> $logfile 2>&1
 
 # Notify
 notify-send -u normal -t 60000 "DigiPi Kiosk Started Successfully!

@@ -9,7 +9,7 @@
 # NOTE: This script must be executed by the 'digipi' user due to the ENV and DISPLAY requriements.
 # ”su -c '/opt/kiosk/sleep_mode' digipi"
 
-logfile="/opt/kiosk/db/sleep.log"
+logfile="/opt/kiosk/db/logs/sleep.log"
 
 # notify
 notify-send -u critical -t 10000 "Sleep mode initalized... Sleeping in 10 seconds"
