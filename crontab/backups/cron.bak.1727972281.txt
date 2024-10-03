@@ -1,0 +1,29 @@
+## Automatic Updates daily @ 2AM
+#0 2 * * * apt update && apt upgrade -y
+#
+## Sleep Schedule @ 10 PM
+#0 22 * * * sudo -u digipi /opt/kiosk/sleep_mode
+## Wake Schedule @ 7 AM
+#0 7 * * * sudo -u digipi /opt/kiosk/wake_mode
+#
+## Weekend Shutdown (with scheduled wakeup) @ 9 PM on Fridays
+#0 21 * * 5 /opt/kiosk/shutdown
+#
+## Health Report Generation daily @ 12AM
+#* 12 * * * /opt/healthcheck/health-check.sh
+
+## Hourly refresh
+0 * * * * sudo -u digipi /opt/kiosk/refresh
+
+########
+#DEV
+########
+# Sleep Schedule @ 10 PM
+0 2 * * * sudo -u digipi /opt/kiosk/sleep_mode
+# Wake Schedule @ 10 PM
+10 2 * * * sudo -u digipi /opt/kiosk/wake_mode
+# Weekend Shutdown (with scheduled wakeup) @ 9 PM on Fridays
+1 16 * * * /opt/kiosk/shutdown
+#########
+#END DEV
+#########

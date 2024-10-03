@@ -8,7 +8,7 @@
 # Purpose : Sorce the config, schedule the power on cycle, and shutdown the device
 # NOTE: This script must be executed bu a super-user (su or sudo)
 
-LOGFILE="/opt/kiosk/db/shutdown.log"
+logfile="/opt/kiosk/db/logs/shutdown.log"
 CONFIG_FILE="/opt/kiosk/db/config.txt"
 source $CONFIG_FILE
 
@@ -16,19 +16,19 @@ source $CONFIG_FILE
 sudo -u digipi notify-send -u critical -t 5000 "digipi shutdown started..."
 
 
-echo "--- --- ---" >> $LOGFILE
-echo "Script started at: $(date)" >> $LOGFILE
+echo "--- --- ---" >> $logfile
+echo "Script started at: $(date)" >> $logfile
 
 WAKEUP_TIME_UTC=$(date +%s -d "$weekend_wakeup" -u)
 
 
 #schedule wakeup
-sudo rtcwake -m no -t $WAKEUP_TIME_UTC >> $LOGFILE 2>&1
+sudo rtcwake -m no -t $WAKEUP_TIME_UTC >> $logfile 2>&1
 
 # notify
  sudo -u digipi notify-send -u critical -t 5000 "Digipi is scheduled to wake at/on $weekend_wakeup"
 
-echo "rtcwake command issued" >> $LOGFILE
+echo "rtcwake command issued" >> $logfile
 echo "rtc wake command issued for $weekend_wakeup ($WAKEUP_TIME_UTC)
 
 **********************************
@@ -40,6 +40,9 @@ echo "rtc wake command issued for $weekend_wakeup ($WAKEUP_TIME_UTC)
  sudo -u digipi notify-send -u critical -t 10000 "Shutting down in 10 seconds..."
 sleep 10
 
-sudo /sbin/shutdown -h now >> $LOGFILE 2>&1
+sudo -u digipi notify-send -u critical -t 10000 "Shutting down now"
+sleep 2
 
-echo "Shutdown command issued at: $(date)" >> $LOGFILE
+sudo /sbin/shutdown -h now >> $logfile 2>&1
+
+echo "Shutdown command issued at: $(date)" >> $logfile

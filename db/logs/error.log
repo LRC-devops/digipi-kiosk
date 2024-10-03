@@ -1,0 +1,114 @@
+RESET: 10.3.24
+
+*** KIOSK ***
+Thu Oct  3 10:15:27 AM MDT 2024
+*************
+
+[3020:3055:1003/101528.063208:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3020:3055:1003/101528.063384:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3020:3055:1003/101528.063410:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3020:3055:1003/101528.063432:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3020:3055:1003/101528.063453:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3020:3055:1003/101528.118439:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3020:3055:1003/101528.118511:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3020:3053:1003/101528.148194:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3020:3055:1003/101528.166091:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3020:3055:1003/101528.166144:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3020:3020:1003/101528.335026:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[3020:3066:1003/101528.343332:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3020:3020:1003/101528.380260:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[3020:3051:1003/101528.380830:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3020:3020:1003/101528.385298:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[3020:3064:1003/101528.385437:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3020:3020:1003/101528.387436:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[3020:3052:1003/101528.388573:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3020:3020:1003/101528.389360:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+[3073:3073:1003/101528.920187:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3073:3073:1003/101528.920282:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3073:3073:1003/101528.920360:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3073:3073:1003/101528.920400:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3073:3073:1003/101528.920463:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3073:3073:1003/101528.920501:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3073:3073:1003/101528.920558:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3073:3073:1003/101528.920594:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3073:3073:1003/101528.920652:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3073:3073:1003/101528.920692:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3073:3073:1003/101528.920751:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3073:3073:1003/101528.920788:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3073:3073:1003/101528.920848:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3073:3073:1003/101528.920883:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3073:3073:1003/101528.922269:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3073:3073:1003/101528.922314:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3073:3073:1003/101528.922374:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3073:3073:1003/101528.922413:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3073:3073:1003/101528.922470:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3073:3073:1003/101528.922506:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3073:3073:1003/101528.922564:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3073:3073:1003/101528.922599:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3073:3073:1003/101528.922657:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3073:3073:1003/101528.922698:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3073:3073:1003/101528.922755:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3073:3073:1003/101528.922789:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3073:3073:1003/101528.922846:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3073:3073:1003/101528.922882:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3073:3127:1003/101528.933501:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[3073:3127:1003/101528.934241:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[3073:3073:1003/101546.538292:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+
+*** KIOSK ***
+Thu Oct  3 10:15:54 AM MDT 2024
+*************
+
+[3178:3213:1003/101555.234788:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3178:3213:1003/101555.234899:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3178:3213:1003/101555.234927:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3178:3213:1003/101555.234946:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3178:3213:1003/101555.234964:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3178:3213:1003/101555.282583:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3178:3213:1003/101555.282635:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3178:3211:1003/101555.309813:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3178:3213:1003/101555.326152:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3178:3213:1003/101555.326207:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3178:3178:1003/101555.513340:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[3178:3211:1003/101555.513489:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3178:3178:1003/101555.561049:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[3178:3209:1003/101555.561174:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3178:3178:1003/101555.568680:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[3178:3209:1003/101555.568780:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3178:3178:1003/101555.572102:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[3178:3223:1003/101555.572346:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[3178:3178:1003/101555.573150:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+[3231:3231:1003/101556.061808:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3231:3231:1003/101556.061916:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3231:3231:1003/101556.062031:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3231:3231:1003/101556.062081:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3231:3231:1003/101556.062149:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3231:3231:1003/101556.062192:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3231:3231:1003/101556.062258:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3231:3231:1003/101556.062300:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3231:3231:1003/101556.062366:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3231:3231:1003/101556.062408:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3231:3231:1003/101556.062481:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3231:3231:1003/101556.062525:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3231:3231:1003/101556.062591:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3231:3231:1003/101556.062631:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3231:3231:1003/101556.064028:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3231:3231:1003/101556.064082:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3231:3231:1003/101556.064149:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3231:3231:1003/101556.064197:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3231:3231:1003/101556.064264:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3231:3231:1003/101556.064306:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3231:3231:1003/101556.064371:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3231:3231:1003/101556.064413:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3231:3231:1003/101556.064480:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3231:3231:1003/101556.064521:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3231:3231:1003/101556.064586:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3231:3231:1003/101556.064628:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3231:3231:1003/101556.064693:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[3231:3231:1003/101556.064734:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3231:3286:1003/101556.074888:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[3231:3286:1003/101556.075193:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
