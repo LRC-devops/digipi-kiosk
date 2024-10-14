@@ -1,4 +1,5 @@
 default_resolution="1920x1080"
-default_refresh_rate="30.00"
-weekend_wakeup="next thu 07:00 UTC"
+default_refresh_rate="60.00"
+weekend_wakeup="tomorrow 07:00 MDT"
+
 weekend_wakeup_bak="next mon 07:00 UTC"

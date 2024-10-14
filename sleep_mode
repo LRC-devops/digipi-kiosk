@@ -25,6 +25,8 @@ Script started at: $(date)
 
 " >> $logfile
 
+/opt/kiosk/cec-controls standby
+
 xset s off >> $logfile 2>&1
 xset -dpms >> $logfile 2>&1
 xset s blank >> $logfile 2>&1

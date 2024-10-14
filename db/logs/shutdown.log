@@ -50,3 +50,182 @@ Script started at: Wed Oct  2 04:01:01 PM MDT 2024
 rtcwake: wakeup using /dev/rtc0 at Thu Oct  3 07:00:00 2024
 rtcwake command issued
 Shutdown command issued at: Wed Oct  2 04:01:13 PM MDT 2024
+--- --- ---
+Script started at: Thu Oct  3 12:10:01 PM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Thu Oct  3 18:12:01 2024
+rtcwake command issued
+Shutdown command issued at: Thu Oct  3 12:10:13 PM MDT 2024
+--- --- ---
+Script started at: Thu Oct  3 02:40:37 PM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Fri Oct  4 13:00:00 2024
+rtcwake command issued
+Shutdown command issued at: Thu Oct  3 02:40:49 PM MDT 2024
+--- --- ---
+Script started at: Sat Oct  5 06:45:29 AM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Sun Oct  6 13:00:00 2024
+rtcwake command issued
+Shutdown command issued at: Sat Oct  5 06:45:41 AM MDT 2024
+--- --- ---
+Script started at: Sun Oct  6 02:19:27 PM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Mon Oct  7 13:00:00 2024
+rtcwake command issued
+Shutdown command issued at: Sun Oct  6 02:19:39 PM MDT 2024
+--- --- ---
+Script started at: Mon Oct  7 10:08:35 AM MDT 2024
+--- --- ---
+Script started at: Mon Oct  7 10:10:13 AM MDT 2024
+--- --- ---
+Script started at: Mon Oct  7 10:10:56 AM MDT 2024
+--- --- ---
+Script started at: Mon Oct  7 10:11:36 AM MDT 2024
+--- --- ---
+Script started at: Mon Oct  7 10:12:08 AM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Mon Oct  7 16:14:08 2024
+rtcwake command issued
+Shutdown command issued at: Mon Oct  7 10:12:20 AM MDT 2024
+--- --- ---
+Script started at: Mon Oct  7 10:17:30 AM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Mon Oct  7 16:19:30 2024
+rtcwake command issued
+--- --- ---
+Script started at: Mon Oct  7 10:28:24 AM MDT 2024
+rtcwake: time doesn't go backward to Mon Oct  7 02:00:00 2024
+
+--- --- ---
+Script started at: Mon Oct  7 10:30:09 AM MDT 2024
+rtcwake: time doesn't go backward to Mon Oct  7 02:00:00 2024
+
+--- --- ---
+Script started at: Mon Oct  7 10:30:58 AM MDT 2024
+rtcwake: time doesn't go backward to Mon Oct  7 02:00:00 2024
+
+--- --- ---
+Script started at: Mon Oct  7 10:31:41 AM MDT 2024
+rtcwake: time doesn't go backward to Mon Oct  7 02:00:00 2024
+
+rtcwake command issued
+--- --- ---
+Script started at: Mon Oct  7 10:32:20 AM MDT 2024
+rtcwake: time doesn't go backward to Mon Oct  7 02:00:00 2024
+
+rtcwake command issued
+--- --- ---
+Script started at: Mon Oct  7 10:39:05 AM MDT 2024
+rtcwake: time doesn't go backward to Mon Oct  7 02:00:00 2024
+
+rtcwake command issued
+Shutdown command issued at: Mon Oct  7 10:39:17 AM MDT 2024
+--- --- ---
+Script started at: Mon Oct  7 10:47:09 AM MDT 2024
+rtcwake: time doesn't go backward to Mon Oct  7 02:00:00 2024
+
+rtcwake command issued
+--- --- ---
+Script started at: Mon Oct  7 10:47:40 AM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Mon Oct  7 16:49:40 2024
+rtcwake command issued
+--- --- ---
+Script started at: Mon Oct  7 10:56:06 AM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Mon Oct  7 16:58:06 2024
+rtcwake command issued
+Shutdown command issued at: Mon Oct  7 10:56:18 AM MDT 2024
+--- --- ---
+Script started at: Mon Oct  7 11:08:08 AM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Mon Oct  7 17:10:08 2024
+rtcwake command issued
+Shutdown command issued at: Mon Oct  7 11:08:20 AM MDT 2024
+--- --- ---
+Script started at: Mon Oct  7 11:13:02 AM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Mon Oct  7 17:15:01 2024
+rtcwake command issued
+Shutdown command issued at: Mon Oct  7 11:13:14 AM MDT 2024
+--- --- ---
+Script started at: Mon Oct  7 11:16:51 AM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Mon Oct  7 17:17:51 2024
+rtcwake command issued
+Shutdown command issued at: Mon Oct  7 11:17:03 AM MDT 2024
+--- --- ---
+Script started at: Mon Oct  7 11:20:34 AM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Mon Oct  7 17:21:33 2024
+rtcwake command issued
+Shutdown command issued at: Mon Oct  7 11:20:47 AM MDT 2024
+--- --- ---
+Script started at: Mon Oct  7 12:10:01 PM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Mon Oct  7 18:12:01 2024
+rtcwake command issued
+Shutdown command issued at: Mon Oct  7 12:10:13 PM MDT 2024
+--- --- ---
+Script started at: Mon Oct  7 12:16:01 PM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Mon Oct  7 18:17:01 2024
+rtcwake command issued
+Shutdown command issued at: Mon Oct  7 12:16:13 PM MDT 2024
+--- --- ---
+Script started at: Mon Oct  7 12:22:02 PM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Tue Oct  8 13:00:00 2024
+rtcwake command issued
+Shutdown command issued at: Mon Oct  7 12:22:14 PM MDT 2024
+--- --- ---
+Script started at: Mon Oct  7 12:32:25 PM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Mon Oct  7 18:34:25 2024
+rtcwake command issued
+Shutdown command issued at: Mon Oct  7 12:32:37 PM MDT 2024
+--- --- ---
+Script started at: Mon Oct  7 12:38:01 PM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Mon Oct  7 18:39:01 2024
+rtcwake command issued
+Shutdown command issued at: Mon Oct  7 12:38:13 PM MDT 2024
+--- --- ---
+Script started at: Mon Oct  7 01:01:55 PM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Mon Oct  7 19:02:55 2024
+rtcwake command issued
+Shutdown command issued at: Mon Oct  7 01:02:07 PM MDT 2024
+--- --- ---
+Script started at: Mon Oct  7 07:00:01 PM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Wed Oct  9 13:00:00 2024
+rtcwake command issued
+Shutdown command issued at: Mon Oct  7 07:00:14 PM MDT 2024
+--- --- ---
+Script started at: Tue Oct  8 07:00:01 PM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Thu Oct 10 13:00:00 2024
+rtcwake command issued
+Shutdown command issued at: Tue Oct  8 07:00:13 PM MDT 2024
+--- --- ---
+Script started at: Wed Oct  9 07:00:01 PM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Fri Oct 11 13:00:00 2024
+rtcwake command issued
+Shutdown command issued at: Wed Oct  9 07:00:13 PM MDT 2024
+--- --- ---
+Script started at: Fri Oct 11 07:08:49 PM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Mon Oct 14 13:00:00 2024
+rtcwake command issued
+Shutdown command issued at: Fri Oct 11 07:09:01 PM MDT 2024
+--- --- ---
+Script started at: Mon Oct 14 11:27:28 AM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Mon Oct 14 17:29:28 2024
+rtcwake command issued
+Shutdown command issued at: Mon Oct 14 11:27:53 AM MDT 2024
+--- --- ---
+Script started at: Mon Oct 14 11:38:20 AM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Mon Oct 14 17:39:20 2024
+rtcwake command issued
+Shutdown command issued at: Mon Oct 14 11:38:45 AM MDT 2024
+--- --- ---
+Script started at: Mon Oct 14 11:46:35 AM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Mon Oct 14 17:47:35 2024
+rtcwake command issued
+Shutdown command issued at: Mon Oct 14 11:46:59 AM MDT 2024
+--- --- ---
+Script started at: Mon Oct 14 11:54:49 AM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Mon Oct 14 17:55:48 2024
+rtcwake command issued
+Shutdown command issued at: Mon Oct 14 11:55:16 AM MDT 2024
+--- --- ---
+Script started at: Mon Oct 14 12:54:03 PM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Mon Oct 14 18:55:03 2024
+rtcwake command issued
+Shutdown command issued at: Mon Oct 14 12:54:25 PM MDT 2024
+--- --- ---
+Script started at: Mon Oct 14 01:06:28 PM MDT 2024
+rtcwake: wakeup using /dev/rtc0 at Mon Oct 14 19:07:28 2024
+rtcwake command issued
+Shutdown command issued at: Mon Oct 14 01:06:51 PM MDT 2024

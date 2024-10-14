@@ -1,0 +1,26 @@
+#!/bin/bash
+# Author : Caleb Theil 
+# Github page : https://github.com/ctheil
+#####################################################
+# Tested on : Debian (RaspberryPi OS (with desktop))
+# Updated version : v1.0 (Updated on October-2024)
+#####################################################
+# Purpose : Update and Upgrade the sysytem
+# NOTE: This script must be executed by a super user
+# sudo or root
+
+logfile="/opt/kiosk/db/logs/error.log"
+
+sudo -u digipi notify-send -u low "Checking for system updates"
+apt update 2>> $logfile
+ 
+sudo -u digipi notify-send -u low "Found updates, now upgrading the system"
+echo "*** UPGRADE ***
+$(date)
+*********************" >> /opt/kiosk/db/logs/upgrade.log
+apt upgrade -y > /tmp/upgrade-log
+
+sudo -u digipi notify-send -u low -t 10000 "Upgraded: 
+$(tail -1 /tmp/upgrade-log)"
+
+cat /tmp/upgrade-log >> /opt/kiosk/db/logs/upgrade.log

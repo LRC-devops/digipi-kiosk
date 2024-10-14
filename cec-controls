@@ -1,0 +1,75 @@
+#!/bin/bash
+# Author : Caleb Theil 
+# Github page : https://github.com/ctheil
+#####################################################
+# Tested on : Debian (RaspberryPi OS (with desktop))
+# Updated version : v1.0 (Updated on October-2024)
+#####################################################
+# Purpose : Script to control the connected TV via HDMI-CEC Protocol
+
+state=$1
+logfile="/opt/kiosk/db/logs/error.log"
+address="0.0.0.0"
+
+echo "
+*** CEC-Controls ***
+`date`
+
+* Current State * 
+`echo scan | cec-client -s -d 1 | grep 'device #0: TV' -A 7`
+
+* Changing state to * 
+new state: $state
+address: $address
+" >> $logfile
+
+
+#sudo -u digipi notify-send -t 10000 "HDMI-CEC" "Setting the TV to $state"
+#sleep 2
+
+#echo "$state $address" | cec-client -s -d 1 >> $logfile
+
+
+# Set the maximum number of attempts
+max_attempts=5
+
+# Set a counter for the number of attempts
+attempt_num=1
+
+# Set a flag to indicate whether the command was successful
+success=false
+
+# Loop until the command is successful or the maximum number of attempts is reached
+while [ $success = false ] && [ $attempt_num -le $max_attempts ]; do
+
+  # Execute the command
+  echo "ATTEMPT: $attempt_num" >> $logfile
+
+  echo "$state $address" | cec-client -s -d 1 >> $logfile
+
+  # Check the exit code of the command
+  if [ $? -eq 0 ]; then
+    # The command was successful
+    success=true
+  else
+    # The command was not successful
+    echo "Attempt $attempt_num failed. Trying again..."
+    # Increment the attempt counter
+    attempt_num=$(( attempt_num + 1 ))
+  fi
+done
+
+# Check if the command was successful
+if [ $success = true ]; then
+  # The command was successful
+  echo "The command was successful after $attempt_num attempts." >> $logfile
+else
+  # The command was not successful
+  echo "The command failed after $max_attempts attempts." >> $logfile
+fi
+
+echo "
+
+*** done ***
+
+" >> $logfile

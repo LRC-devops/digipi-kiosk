@@ -1,0 +1,66 @@
+#!/bin/bash
+# Author : Caleb Theil 
+# Github page : https://github.com/ctheil
+#####################################################
+# Tested on : Debian (RaspberryPi OS (with desktop))
+# Updated version : v1.0 (Updated on June-2024)
+#####################################################
+# Purpose : Sorce the config, schedule the power on cycle, and shutdown the device
+# NOTE: This script must be executed bu a super-user (su or sudo)
+
+# exit if a command errors
+#set -e
+
+while getopts w: flag
+do 
+	case "${flag}" in 
+		w) wake=${OPTARG};;
+	esac
+done
+
+if [ -z "${wake}" ]; then 
+	echo ERROR: a wake time "-w" must be provided
+	exit 1
+fi
+
+logfile="/opt/kiosk/db/logs/shutdown.log"
+CONFIG_FILE="/opt/kiosk/db/config.txt"
+source $CONFIG_FILE
+WAKEUP_TIME=$(date +%s -d "$wake" -u)
+
+
+# notify
+sudo -u digipi notify-send -u critical -t 5000 "digipi shutdown started..."
+
+
+echo "--- --- ---" >> $logfile
+echo "Script started at: $(date)" >> $logfile
+
+
+
+#schedule wakeup
+sudo rtcwake -m no -t $WAKEUP_TIME >> $logfile 2>&1
+
+# notify
+sudo -u digipi notify-send -u critical -t 5000 "Digipi is scheduled to wake at $wake"
+
+echo "rtcwake command issued" >> $logfile
+echo "rtc wake command issued for $wake ($WAKE_TIME)
+
+**********************************
+   Shutting down in 10 seconds
+**********************************
+"
+
+# notify
+ sudo -u digipi notify-send -u critical -t 10000 "Shutting down in 10 seconds..."
+sleep 10
+
+sudo -u digipi notify-send -u critical -t 10000 "Shutting down now"
+sleep 2
+# Put the TV into "standby"
+sudo /opt/kiosk/cec-controls standby
+
+sudo /sbin/shutdown -h now >> $logfile 2>&1
+
+echo "Shutdown command issued at: $(date)" >> $logfile
