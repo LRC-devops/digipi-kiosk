@@ -1,7 +1,7 @@
 ## Todo
 - [x] Fix sleep and wake issue
-- [ ] Setup automatic backups (waiting on drive)
-- [ ] Install simple golang api
+- [x] Setup automatic backups (waiting on drive)
+- [x] Install simple golang api
 
 ## Fixed
 - Issue with `./db/wakeup_config.txt` - ThinK `.bak` is what should be used...

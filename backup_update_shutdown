@@ -1,0 +1,60 @@
+#!/bin/bash
+# Author : Caleb Theil 
+# Github page : https://github.com/ctheil
+#####################################################
+# Tested on : Debian (RaspberryPi OS (with desktop))
+# Updated version : v1.1 (Updated on October-2024)
+#####################################################
+# Purpose : Schedule tasks and execute one by one to ensure correct execution order
+# NOTE: Must be executed by super user or sudo
+
+
+while getopts w: flag
+do 
+	case "${flag}" in 
+		w) wake=${OPTARG};;
+	esac
+done
+
+if [ -z "${wake}" ]; then 
+	echo ERROR: a wake time "-w" must be provided
+	exit 1
+fi
+
+echo no errors: $wake
+
+# BACKUP
+/opt/kiosk/backup/backup &
+
+PID=$!
+
+# Send notifications every 5 seconds while the process is running
+let time=0
+while kill -0 $PID 2>/dev/null; do
+	sudo -u digipi notify-send -t 5030 "Preparing to shutdown" "Backing up the system ($time s)...
+	This may slow down the system."
+	let time+=5
+  sleep 5
+done
+
+
+
+
+# UPDATE
+/opt/kiosk/update &
+PID=$!
+
+# Send notifications every 5 seconds while the process is running
+while kill -0 $PID 2>/dev/null; do
+	sudo -u digipi notify-send -t 5000 "Preparing to shutdown" "Checking for updates and updaing the system ($time s)...
+	This may slow down the system."
+  let time+=5
+  sleep 5
+done
+
+# After the processes are finished, send a completion notification
+sudo -u digipi notify-send "Preparing to shutdown" "The system has been backed up and updated."
+sleep 5
+ 
+# Shutdown
+sudo /opt/kiosk/schedule_wake_shutdown -w "$wake"

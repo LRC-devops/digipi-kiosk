@@ -112,3 +112,2899 @@ error: XDG_RUNTIME_DIR is invalid or not set in the environment.
 [3231:3231:1003/101556.064734:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
 [3231:3286:1003/101556.074888:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
 [3231:3286:1003/101556.075193:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** REFRESH ***
+Thu Oct  3 12:02:01 PM MDT 2024
+***************
+
+There are no windows in the stack
+Invalid window '%1'
+Usage: windowactivate [options] [window=%1]
+--sync    - only exit once the window is active (is visible + active)
+If no window is given, %1 is used. See WINDOW STACK in xdotool(1)
+
+*** KIOSK ***
+Thu Oct  3 12:05:01 PM MDT 2024
+*************
+
+find: Failed to restore initial working directory: /root: Permission denied
+[4511:4545:1003/120501.607835:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4511:4545:1003/120501.608446:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4511:4545:1003/120501.608488:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4511:4545:1003/120501.608508:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4511:4545:1003/120501.608526:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4511:4545:1003/120501.730806:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4511:4545:1003/120501.730867:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4511:4542:1003/120501.769294:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4511:4545:1003/120501.803563:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4511:4545:1003/120501.803610:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4511:4511:1003/120501.992427:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4511:4543:1003/120501.992568:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+[4511:4511:1003/120502.023689:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4511:4542:1003/120502.023758:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4511:4511:1003/120502.028185:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4511:4542:1003/120502.028277:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4511:4511:1003/120502.031489:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4511:4555:1003/120502.031580:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[4511:4511:1003/120502.031971:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+[4561:4561:1003/120502.298954:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[4561:4561:1003/120502.299051:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[4561:4561:1003/120502.299131:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[4561:4561:1003/120502.299169:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[4561:4561:1003/120502.299226:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[4561:4561:1003/120502.299266:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[4561:4561:1003/120502.299324:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[4561:4561:1003/120502.299358:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[4561:4561:1003/120502.299412:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[4561:4561:1003/120502.299450:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[4561:4561:1003/120502.299505:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[4561:4561:1003/120502.299545:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[4561:4561:1003/120502.299602:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[4561:4561:1003/120502.299639:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[4561:4561:1003/120502.301042:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[4561:4561:1003/120502.301079:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[4561:4561:1003/120502.301141:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[4561:4561:1003/120502.301180:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[4561:4561:1003/120502.301235:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[4561:4561:1003/120502.301271:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[4561:4561:1003/120502.301326:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[4561:4561:1003/120502.301363:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[4561:4561:1003/120502.301418:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[4561:4561:1003/120502.301455:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[4561:4561:1003/120502.301511:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[4561:4561:1003/120502.301546:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[4561:4561:1003/120502.301601:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[4561:4561:1003/120502.301639:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[4561:4613:1003/120502.310971:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[4561:4613:1003/120502.311338:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[4561:4561:1003/121013.616684:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[4561:4561:1003/121013.624148:ERROR:connection.cc(63)] X connection error received.
+[4561:4561:1003/121013.653650:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[4561:4561:1003/121013.955584:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+
+*** KIOSK ***
+Thu Oct  3 12:12:55 PM MDT 2024
+*************
+
+[1239:1278:1003/121258.278152:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1239:1278:1003/121259.280879:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1299:1299:1003/121307.854049:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1299:1299:1003/121307.860704:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1299:1299:1003/121307.860834:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1299:1299:1003/121307.860884:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1299:1299:1003/121307.860959:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1299:1299:1003/121307.861001:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1299:1299:1003/121307.861066:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1299:1299:1003/121307.861104:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1299:1299:1003/121307.861174:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1299:1299:1003/121307.861222:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1299:1299:1003/121307.861287:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1299:1299:1003/121307.861323:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1299:1299:1003/121307.861383:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1299:1299:1003/121307.861417:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1299:1299:1003/121307.862788:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1299:1299:1003/121307.862832:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1299:1299:1003/121307.862892:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1299:1299:1003/121307.862935:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1299:1299:1003/121307.862993:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1299:1299:1003/121307.863027:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1299:1299:1003/121307.863085:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1299:1299:1003/121307.863119:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1299:1299:1003/121307.863176:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1299:1299:1003/121307.863211:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1299:1299:1003/121307.863271:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1299:1299:1003/121307.863305:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1299:1299:1003/121307.863366:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1299:1299:1003/121307.863400:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1299:1382:1003/121308.875268:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1299:1382:1003/121309.180124:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1299:1299:1003/124622.515255:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+
+*** KIOSK ***
+Thu Oct  3 12:46:43 PM MDT 2024
+*************
+
+[1594:1627:1003/124644.231084:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1594:1627:1003/124644.231214:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1594:1627:1003/124644.231252:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1594:1627:1003/124644.231273:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1594:1627:1003/124644.231875:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1594:1627:1003/124644.277399:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1594:1627:1003/124644.277455:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1594:1640:1003/124644.316956:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1594:1627:1003/124644.337133:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1594:1627:1003/124644.337182:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1594:1594:1003/124644.504376:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[1594:1624:1003/124644.505259:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1594:1594:1003/124644.559090:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[1594:1625:1003/124644.559358:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1594:1594:1003/124644.567080:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[1594:1625:1003/124644.567162:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1594:1594:1003/124644.569463:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[1594:1629:1003/124644.569956:ERROR:bus.cc(407)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[1594:1594:1003/124644.570032:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+[1644:1644:1003/124645.119236:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1644:1644:1003/124645.119344:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1644:1644:1003/124645.119443:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1644:1644:1003/124645.119493:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1644:1644:1003/124645.119572:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1644:1644:1003/124645.119622:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1644:1644:1003/124645.119693:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1644:1644:1003/124645.119735:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1644:1644:1003/124645.119806:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1644:1644:1003/124645.119851:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1644:1644:1003/124645.119921:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1644:1644:1003/124645.119962:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1644:1644:1003/124645.120025:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1644:1644:1003/124645.120077:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1644:1644:1003/124645.121478:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1644:1644:1003/124645.121541:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1644:1644:1003/124645.121623:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1644:1644:1003/124645.121673:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1644:1644:1003/124645.121743:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1644:1644:1003/124645.121783:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1644:1644:1003/124645.121855:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1644:1644:1003/124645.121896:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1644:1644:1003/124645.121971:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1644:1644:1003/124645.122015:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1644:1644:1003/124645.122077:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1644:1644:1003/124645.122124:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1644:1644:1003/124645.122189:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1644:1644:1003/124645.122230:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1644:1698:1003/124645.131994:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1644:1698:1003/124645.132258:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** REFRESH ***
+Thu Oct  3 01:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Thu Oct  3 02:02:14 PM MDT 2024
+***************
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+[1594:1594:1003/144049.839114:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+
+*** KIOSK ***
+Fri Oct  4 07:01:14 AM MDT 2024
+*************
+
+[1192:1290:1004/070117.709950:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1310:1310:1004/070118.736014:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1310:1310:1004/070118.739636:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1310:1310:1004/070118.739736:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1310:1310:1004/070118.739780:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1310:1310:1004/070118.739863:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1310:1310:1004/070118.739907:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1310:1310:1004/070118.739970:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1310:1310:1004/070118.740028:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1310:1310:1004/070118.740095:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1310:1310:1004/070118.740146:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1310:1310:1004/070118.740234:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1310:1310:1004/070118.740274:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1310:1310:1004/070118.740338:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1310:1310:1004/070118.740398:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1310:1310:1004/070118.741830:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1310:1310:1004/070118.741890:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1310:1310:1004/070118.741956:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1310:1310:1004/070118.742002:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1310:1310:1004/070118.742097:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1310:1310:1004/070118.742133:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1310:1310:1004/070118.742192:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1310:1310:1004/070118.742228:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1310:1310:1004/070118.742299:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1310:1310:1004/070118.742335:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1310:1310:1004/070118.742395:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1310:1310:1004/070118.742450:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1310:1310:1004/070118.742515:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1310:1310:1004/070118.742714:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1310:1405:1004/070119.907238:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1310:1405:1004/070120.300289:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** REFRESH ***
+Fri Oct  4 07:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct  4 08:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct  4 09:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct  4 10:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct  4 11:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct  4 12:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct  4 01:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct  4 02:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct  4 03:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct  4 04:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct  4 05:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct  4 06:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct  4 07:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct  4 08:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct  4 09:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct  4 10:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct  4 11:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Sat Oct  5 12:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Sat Oct  5 01:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Sat Oct  5 02:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Sat Oct  5 03:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Sat Oct  5 04:02:02 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Sat Oct  5 05:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Sat Oct  5 06:02:01 AM MDT 2024
+***************
+
+[1192:1192:1005/064541.323546:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+
+*** REFRESH ***
+Sun Oct  6 07:02:03 AM MDT 2024
+***************
+
+
+*** KIOSK ***
+Sun Oct  6 07:02:03 AM MDT 2024
+*************
+
+There are no windows in the stack
+Invalid window '%1'
+Usage: windowactivate [options] [window=%1]
+--sync    - only exit once the window is active (is visible + active)
+If no window is given, %1 is used. See WINDOW STACK in xdotool(1)
+[1258:1317:1006/070206.848548:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1341:1341:1006/070207.512542:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1341:1341:1006/070207.518934:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1341:1341:1006/070207.519146:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1341:1341:1006/070207.519356:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1341:1341:1006/070207.519498:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1341:1341:1006/070207.519689:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1341:1341:1006/070207.519810:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1341:1341:1006/070207.519990:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1341:1341:1006/070207.520135:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1341:1341:1006/070207.520324:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1341:1341:1006/070207.520472:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1341:1341:1006/070207.520666:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1341:1341:1006/070207.520805:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1341:1341:1006/070207.520993:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1341:1341:1006/070207.522918:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1341:1341:1006/070207.523091:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1341:1341:1006/070207.523199:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1341:1341:1006/070207.523263:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1341:1341:1006/070207.523392:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1341:1341:1006/070207.523442:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1341:1341:1006/070207.523550:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1341:1341:1006/070207.523606:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1341:1341:1006/070207.523708:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1341:1341:1006/070207.523765:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1341:1341:1006/070207.523855:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1341:1341:1006/070207.523910:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1341:1341:1006/070207.524012:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1341:1341:1006/070207.524086:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1341:1424:1006/070208.390410:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1341:1424:1006/070208.687848:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** REFRESH ***
+Sun Oct  6 08:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Sun Oct  6 09:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Sun Oct  6 10:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Sun Oct  6 11:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Sun Oct  6 12:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Sun Oct  6 01:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Sun Oct  6 02:02:01 PM MDT 2024
+***************
+
+
+*** KIOSK ***
+Mon Oct  7 07:00:58 AM MDT 2024
+*************
+
+[1339:1392:1007/070104.590440:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1414:1414:1007/070105.606662:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1414:1414:1007/070105.609358:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1414:1414:1007/070105.609493:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1414:1414:1007/070105.609543:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1414:1414:1007/070105.609623:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1414:1414:1007/070105.609674:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1414:1414:1007/070105.609746:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1414:1414:1007/070105.609793:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1414:1414:1007/070105.609858:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1414:1414:1007/070105.609911:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1414:1414:1007/070105.609979:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1414:1414:1007/070105.610025:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1414:1414:1007/070105.610097:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1414:1414:1007/070105.610141:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1414:1414:1007/070105.611616:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1414:1414:1007/070105.611684:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1414:1414:1007/070105.611759:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1414:1414:1007/070105.611830:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1414:1414:1007/070105.611911:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1414:1414:1007/070105.611959:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1414:1414:1007/070105.612029:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1414:1414:1007/070105.612076:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1414:1414:1007/070105.612145:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1414:1414:1007/070105.612197:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1414:1414:1007/070105.612263:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1414:1414:1007/070105.612313:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1414:1414:1007/070105.612381:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1414:1414:1007/070105.612428:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1414:1497:1007/070106.582729:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1414:1497:1007/070106.883132:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** REFRESH ***
+Mon Oct  7 07:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Mon Oct  7 08:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Mon Oct  7 09:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Mon Oct  7 10:02:01 AM MDT 2024
+***************
+
+
+*** KIOSK ***
+Mon Oct  7 10:14:28 AM MDT 2024
+*************
+
+[1132:1183:1007/101431.394469:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1283:1283:1007/101432.047823:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1283:1283:1007/101432.069172:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1283:1283:1007/101432.069326:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1283:1283:1007/101432.069374:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1283:1283:1007/101432.069452:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1283:1283:1007/101432.069502:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1283:1283:1007/101432.069568:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1283:1283:1007/101432.069613:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1283:1283:1007/101432.069676:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1283:1283:1007/101432.069728:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1283:1283:1007/101432.069794:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1283:1283:1007/101432.069837:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1283:1283:1007/101432.069904:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1283:1283:1007/101432.069947:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1283:1283:1007/101432.071872:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1283:1283:1007/101432.071954:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1283:1283:1007/101432.072057:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1283:1283:1007/101432.072147:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1283:1283:1007/101432.072262:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1283:1283:1007/101432.072316:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1283:1283:1007/101432.072395:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1283:1283:1007/101432.072481:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1283:1283:1007/101432.072559:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1283:1283:1007/101432.072613:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1283:1283:1007/101432.072685:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1283:1283:1007/101432.072736:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1283:1283:1007/101432.072811:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1283:1283:1007/101432.072867:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1283:1373:1007/101433.097043:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1283:1373:1007/101433.511768:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** KIOSK ***
+Mon Oct  7 10:45:47 AM MDT 2024
+*************
+
+[1152:1277:1007/104607.979207:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1301:1301:1007/104608.669214:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1301:1301:1007/104608.674078:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1301:1301:1007/104608.674529:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1301:1301:1007/104608.674610:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1301:1301:1007/104608.674694:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1301:1301:1007/104608.674755:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1301:1301:1007/104608.674901:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1301:1301:1007/104608.675054:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1301:1301:1007/104608.675504:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1301:1301:1007/104608.675901:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1301:1301:1007/104608.676556:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1301:1301:1007/104608.676898:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1301:1301:1007/104608.677473:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1301:1301:1007/104608.677808:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1301:1301:1007/104608.680866:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1301:1301:1007/104608.681025:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1301:1301:1007/104608.681133:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1301:1301:1007/104608.681220:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1301:1301:1007/104608.681317:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1301:1301:1007/104608.681376:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1301:1301:1007/104608.681467:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1301:1301:1007/104608.681532:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1301:1301:1007/104608.681615:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1301:1301:1007/104608.681663:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1301:1301:1007/104608.681741:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1301:1301:1007/104608.681784:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1301:1301:1007/104608.681868:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1301:1301:1007/104608.681928:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1301:1382:1007/104609.571725:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1301:1382:1007/104609.865654:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** KIOSK ***
+Mon Oct  7 10:51:09 AM MDT 2024
+*************
+
+[1256:1307:1007/105112.371977:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1328:1328:1007/105112.938486:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1328:1328:1007/105112.954981:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1328:1328:1007/105112.955202:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1328:1328:1007/105112.955353:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1328:1328:1007/105112.955493:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1328:1328:1007/105112.955636:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1328:1328:1007/105112.955744:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1328:1328:1007/105112.955871:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1328:1328:1007/105112.956162:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1328:1328:1007/105112.956325:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1328:1328:1007/105112.956433:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1328:1328:1007/105112.956557:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1328:1328:1007/105112.956685:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1328:1328:1007/105112.956812:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1328:1328:1007/105112.959648:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1328:1328:1007/105112.959738:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1328:1328:1007/105112.959882:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1328:1328:1007/105112.960058:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1328:1328:1007/105112.960199:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1328:1328:1007/105112.960329:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1328:1328:1007/105112.960446:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1328:1328:1007/105112.960848:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1328:1328:1007/105112.960994:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1328:1328:1007/105112.961111:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1328:1328:1007/105112.961209:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1328:1328:1007/105112.961300:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1328:1328:1007/105112.961397:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1328:1328:1007/105112.961456:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1328:1412:1007/105113.769660:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1328:1412:1007/105114.104455:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1256:1256:1007/105618.592859:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+
+*** KIOSK ***
+Mon Oct  7 10:59:00 AM MDT 2024
+*************
+
+[1238:1288:1007/105903.673030:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1311:1311:1007/105904.245289:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1311:1311:1007/105904.280826:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1311:1311:1007/105904.280991:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1311:1311:1007/105904.281086:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1311:1311:1007/105904.281177:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1311:1311:1007/105904.281232:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1311:1311:1007/105904.281309:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1311:1311:1007/105904.281361:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1311:1311:1007/105904.281444:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1311:1311:1007/105904.281497:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1311:1311:1007/105904.281569:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1311:1311:1007/105904.281619:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1311:1311:1007/105904.281693:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1311:1311:1007/105904.281741:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1311:1311:1007/105904.283488:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1311:1311:1007/105904.283615:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1311:1311:1007/105904.283699:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1311:1311:1007/105904.283762:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1311:1311:1007/105904.283836:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1311:1311:1007/105904.283886:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1311:1311:1007/105904.283957:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1311:1311:1007/105904.284018:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1311:1311:1007/105904.284092:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1311:1311:1007/105904.284139:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1311:1311:1007/105904.284213:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1311:1311:1007/105904.284263:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1311:1311:1007/105904.284340:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1311:1311:1007/105904.284400:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1311:1393:1007/105904.996314:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1311:1393:1007/105905.260689:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** REFRESH ***
+Mon Oct  7 11:02:01 AM MDT 2024
+***************
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+*** KIOSK ***
+Mon Oct  7 11:11:02 AM MDT 2024
+*************
+
+[1148:1199:1007/111106.012035:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1221:1221:1007/111106.702537:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1221:1221:1007/111106.705949:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1221:1221:1007/111106.706101:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1221:1221:1007/111106.706162:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1221:1221:1007/111106.706254:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1221:1221:1007/111106.706304:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1221:1221:1007/111106.706379:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1221:1221:1007/111106.706423:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1221:1221:1007/111106.706499:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1221:1221:1007/111106.706547:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1221:1221:1007/111106.706621:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1221:1221:1007/111106.706664:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1221:1221:1007/111106.706732:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1221:1221:1007/111106.706777:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1221:1221:1007/111106.708226:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1221:1221:1007/111106.708313:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1221:1221:1007/111106.708404:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1221:1221:1007/111106.708466:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1221:1221:1007/111106.708550:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1221:1221:1007/111106.708599:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1221:1221:1007/111106.708695:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1221:1221:1007/111106.708744:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1221:1221:1007/111106.708811:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1221:1221:1007/111106.708854:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1221:1221:1007/111106.708928:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1221:1221:1007/111106.708979:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1221:1221:1007/111106.709134:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1221:1221:1007/111106.709191:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1221:1382:1007/111107.678920:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1221:1382:1007/111107.976034:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** KIOSK ***
+Mon Oct  7 11:15:39 AM MDT 2024
+*************
+
+[1137:1188:1007/111542.114608:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1206:1206:1007/111542.716891:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1206:1206:1007/111542.719819:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1206:1206:1007/111542.719995:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1206:1206:1007/111542.720047:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1206:1206:1007/111542.720121:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1206:1206:1007/111542.720166:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1206:1206:1007/111542.720235:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1206:1206:1007/111542.720279:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1206:1206:1007/111542.720342:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1206:1206:1007/111542.720412:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1206:1206:1007/111542.720555:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1206:1206:1007/111542.720619:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1206:1206:1007/111542.720693:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1206:1206:1007/111542.720732:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1206:1206:1007/111542.723665:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1206:1206:1007/111542.724705:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1206:1206:1007/111542.724827:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1206:1206:1007/111542.725190:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1206:1206:1007/111542.725324:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1206:1206:1007/111542.726138:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1206:1206:1007/111542.726242:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1206:1206:1007/111542.726486:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1206:1206:1007/111542.726585:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1206:1206:1007/111542.726814:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1206:1206:1007/111542.728091:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1206:1206:1007/111542.728204:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1206:1206:1007/111542.729946:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1206:1206:1007/111542.730964:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1206:1371:1007/111543.737199:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1206:1371:1007/111544.033547:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** KIOSK ***
+Mon Oct  7 11:19:02 AM MDT 2024
+*************
+
+[1233:1284:1007/111905.905647:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1305:1305:1007/111906.536054:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/111906.541043:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/111906.541269:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/111906.542608:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/111906.543338:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/111906.543693:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/111906.544282:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/111906.545557:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/111906.545770:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/111906.545844:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/111906.545948:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/111906.546048:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/111906.546221:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/111906.546299:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/111906.548056:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/111906.548150:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/111906.548234:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/111906.548296:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/111906.548380:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/111906.548425:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/111906.548500:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/111906.548544:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/111906.548614:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/111906.548657:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/111906.548730:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/111906.548773:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/111906.548880:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/111906.548933:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1389:1007/111907.247350:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1305:1389:1007/111907.579665:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1233:1233:1007/112047.174689:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+
+*** KIOSK ***
+Mon Oct  7 11:22:45 AM MDT 2024
+*************
+
+[1247:1297:1007/112248.324348:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1320:1320:1007/112248.977310:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1007/112248.982129:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1007/112248.982394:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1007/112248.982449:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1007/112248.982517:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1007/112248.982572:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1007/112248.982669:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1007/112248.982754:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1007/112248.983005:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1007/112248.983244:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1007/112248.983680:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1007/112248.984023:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1007/112248.984568:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1007/112248.984866:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1007/112248.988926:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1007/112248.989048:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1007/112248.989128:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1007/112248.989184:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1007/112248.989263:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1007/112248.989306:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1007/112248.989377:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1007/112248.989417:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1007/112248.989485:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1007/112248.989529:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1007/112248.989596:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1007/112248.989634:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1007/112248.989701:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1007/112248.989761:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1402:1007/112249.697770:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1320:1402:1007/112250.036452:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** KIOSK ***
+Mon Oct  7 11:23:59 AM MDT 2024
+*************
+
+[1097:1193:1007/112402.873187:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1097:1193:1007/112403.876610:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1209:1209:1007/120443.030747:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1209:1209:1007/120443.055743:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1209:1209:1007/120443.055890:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1209:1209:1007/120443.055938:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1209:1209:1007/120443.056008:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1209:1209:1007/120443.056057:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1209:1209:1007/120443.056129:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1209:1209:1007/120443.056240:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1209:1209:1007/120443.056318:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1209:1209:1007/120443.056394:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1209:1209:1007/120443.056488:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1209:1209:1007/120443.056554:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1209:1209:1007/120443.056652:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1209:1209:1007/120443.056703:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1209:1209:1007/120443.058211:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1209:1209:1007/120443.058424:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1209:1209:1007/120443.058650:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1209:1209:1007/120443.058974:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1209:1209:1007/120443.059207:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1209:1209:1007/120443.059434:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1209:1209:1007/120443.059607:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1209:1209:1007/120443.060067:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1209:1209:1007/120443.060241:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1209:1209:1007/120443.060476:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1209:1209:1007/120443.060669:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1209:1209:1007/120443.060916:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1209:1209:1007/120443.061490:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1209:1209:1007/120443.061713:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1097:1097:1007/120443.347569:ERROR:network_service_instance_impl.cc(613)] Network service crashed, restarting service.
+[1209:1393:1007/120444.038368:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1209:1393:1007/120444.353405:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1097:1097:1007/120657.695728:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+
+*** KIOSK ***
+Mon Oct  7 12:07:54 PM MDT 2024
+*************
+
+[1232:1282:1007/120757.560427:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1302:1302:1007/120758.123576:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/120758.148921:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/120758.149111:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/120758.149169:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/120758.149248:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/120758.149293:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/120758.149361:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/120758.149403:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/120758.149474:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/120758.149519:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/120758.149589:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/120758.149631:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/120758.149705:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/120758.149747:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/120758.151393:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/120758.151476:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/120758.151552:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/120758.151601:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/120758.151664:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/120758.151700:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/120758.151755:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/120758.151795:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/120758.151853:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/120758.151902:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/120758.151958:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/120758.151990:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/120758.152049:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/120758.152082:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1387:1007/120759.069792:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1302:1387:1007/120759.338518:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** KIOSK ***
+Mon Oct  7 12:12:40 PM MDT 2024
+*************
+
+[1232:1282:1007/121243.216456:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1302:1302:1007/121243.843680:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/121243.851363:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/121243.852570:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/121243.853119:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/121243.853595:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/121243.853711:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/121243.853810:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/121243.853886:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/121243.854037:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/121243.854137:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/121243.854287:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/121243.854347:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/121243.854445:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/121243.854503:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/121243.856058:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/121243.856161:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/121243.856255:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/121243.856318:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/121243.856394:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/121243.856441:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/121243.856524:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/121243.856569:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/121243.856643:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/121243.856690:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/121243.856786:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/121243.856831:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1302:1007/121243.856898:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1302:1302:1007/121243.856949:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1302:1387:1007/121244.713865:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1302:1387:1007/121244.970250:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** KIOSK ***
+Mon Oct  7 12:17:39 PM MDT 2024
+*************
+
+[1133:1184:1007/121742.114033:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1204:1204:1007/121742.801529:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1204:1204:1007/121742.806291:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1204:1204:1007/121742.806461:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1204:1204:1007/121742.806513:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1204:1204:1007/121742.806601:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1204:1204:1007/121742.806655:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1204:1204:1007/121742.806733:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1204:1204:1007/121742.806779:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1204:1204:1007/121742.806845:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1204:1204:1007/121742.807002:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1204:1204:1007/121742.807084:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1204:1204:1007/121742.807127:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1204:1204:1007/121742.807190:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1204:1204:1007/121742.807234:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1204:1204:1007/121742.808698:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1204:1204:1007/121742.808750:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1204:1204:1007/121742.808832:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1204:1204:1007/121742.808882:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1204:1204:1007/121742.808958:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1204:1204:1007/121742.809002:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1204:1204:1007/121742.809081:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1204:1204:1007/121742.809122:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1204:1204:1007/121742.809181:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1204:1204:1007/121742.809229:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1204:1204:1007/121742.809305:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1204:1204:1007/121742.809348:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1204:1204:1007/121742.809408:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1204:1204:1007/121742.809460:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1204:1367:1007/121743.868589:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1204:1367:1007/121744.131583:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** KIOSK ***
+Mon Oct  7 12:29:23 PM MDT 2024
+*************
+
+[1236:1285:1007/122926.616799:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1306:1306:1007/122927.205833:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1306:1306:1007/122927.225331:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1306:1306:1007/122927.225476:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1306:1306:1007/122927.225537:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1306:1306:1007/122927.225608:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1306:1306:1007/122927.225659:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1306:1306:1007/122927.225727:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1306:1306:1007/122927.225772:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1306:1306:1007/122927.225837:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1306:1306:1007/122927.225884:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1306:1306:1007/122927.225951:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1306:1306:1007/122927.225996:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1306:1306:1007/122927.226062:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1306:1306:1007/122927.226106:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1306:1306:1007/122927.227517:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1306:1306:1007/122927.227573:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1306:1306:1007/122927.227635:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1306:1306:1007/122927.227685:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1306:1306:1007/122927.227742:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1306:1306:1007/122927.227782:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1306:1306:1007/122927.227838:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1306:1306:1007/122927.227873:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1306:1306:1007/122927.227930:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1306:1306:1007/122927.227973:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1306:1306:1007/122927.228036:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1306:1306:1007/122927.228082:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1306:1306:1007/122927.228137:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1306:1306:1007/122927.228176:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1306:1391:1007/122928.235872:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1306:1391:1007/122928.498509:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** KIOSK ***
+Mon Oct  7 12:35:54 PM MDT 2024
+*************
+
+[1238:1287:1007/123557.487585:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1304:1304:1007/123558.110444:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1304:1304:1007/123558.114321:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1304:1304:1007/123558.115317:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1304:1304:1007/123558.115434:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1304:1304:1007/123558.115560:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1304:1304:1007/123558.115623:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1304:1304:1007/123558.115741:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1304:1304:1007/123558.115912:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1304:1304:1007/123558.116517:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1304:1304:1007/123558.116980:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1304:1304:1007/123558.117703:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1304:1304:1007/123558.118228:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1304:1304:1007/123558.118966:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1304:1304:1007/123558.119468:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1304:1304:1007/123558.121894:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1304:1304:1007/123558.122040:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1304:1304:1007/123558.122129:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1304:1304:1007/123558.122197:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1304:1304:1007/123558.122283:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1304:1304:1007/123558.122332:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1304:1304:1007/123558.122413:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1304:1304:1007/123558.122462:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1304:1304:1007/123558.122548:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1304:1304:1007/123558.122598:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1304:1304:1007/123558.122694:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1304:1304:1007/123558.122769:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1304:1304:1007/123558.122846:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1304:1304:1007/123558.122906:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1304:1393:1007/123558.935232:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1304:1393:1007/123559.197792:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1238:1238:1007/123814.078602:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+
+*** KIOSK ***
+Mon Oct  7 12:39:55 PM MDT 2024
+*************
+
+[1233:1283:1007/123958.760648:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1305:1305:1007/123959.316131:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/123959.321437:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/123959.321868:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/123959.321982:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/123959.322110:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/123959.322182:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/123959.322290:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/123959.322379:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/123959.322494:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/123959.322560:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/123959.322682:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/123959.323057:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/123959.323195:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/123959.323315:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/123959.325183:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/123959.325293:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/123959.325385:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/123959.325460:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/123959.325536:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/123959.325584:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/123959.325655:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/123959.325703:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/123959.325770:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/123959.325821:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/123959.325971:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/123959.326031:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1305:1007/123959.326097:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1305:1305:1007/123959.326138:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1305:1389:1007/124000.216173:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1305:1389:1007/124000.498879:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+*** REFRESH ***
+Mon Oct  7 01:02:01 PM MDT 2024
+***************
+
+
+*** KIOSK ***
+Mon Oct  7 01:03:31 PM MDT 2024
+*************
+
+[1216:1256:1007/130334.620490:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1276:1276:1007/130335.263373:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1276:1276:1007/130335.268314:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1276:1276:1007/130335.268718:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1276:1276:1007/130335.268791:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1276:1276:1007/130335.268877:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1276:1276:1007/130335.268952:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1276:1276:1007/130335.269144:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1276:1276:1007/130335.269315:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1276:1276:1007/130335.269853:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1276:1276:1007/130335.270564:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1276:1276:1007/130335.271297:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1276:1276:1007/130335.271695:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1276:1276:1007/130335.273037:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1276:1276:1007/130335.273273:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1276:1276:1007/130335.274952:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1276:1276:1007/130335.275061:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1276:1276:1007/130335.275746:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1276:1276:1007/130335.275812:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1276:1276:1007/130335.275899:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1276:1276:1007/130335.275943:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1276:1276:1007/130335.276018:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1276:1276:1007/130335.276062:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1276:1276:1007/130335.276140:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1276:1276:1007/130335.276182:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1276:1276:1007/130335.276309:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1276:1276:1007/130335.276352:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1276:1276:1007/130335.276421:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1276:1276:1007/130335.276461:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1276:1361:1007/130336.080258:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1276:1361:1007/130336.337542:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** REFRESH ***
+Mon Oct  7 01:05:04 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Mon Oct  7 02:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Mon Oct  7 03:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Mon Oct  7 04:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Mon Oct  7 05:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Mon Oct  7 06:02:01 PM MDT 2024
+***************
+
+[1216:1216:1007/190014.125471:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+
+*** REFRESH ***
+Mon Oct  7 07:02:12 PM MDT 2024
+***************
+
+Invalid MIT-MAGIC-COOKIE-1 key
+Error: Can't open display: (null)
+Failed creating new xdo instance
+Invalid MIT-MAGIC-COOKIE-1 key
+Error: Can't open display: (null)
+Failed creating new xdo instance
+
+*** KIOSK ***
+Mon Oct  7 07:02:14 PM MDT 2024
+*************
+
+[1226:1275:1008/104436.434761:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1296:1296:1008/104437.244411:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1296:1296:1008/104437.249049:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1296:1296:1008/104437.249210:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1296:1296:1008/104437.249271:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1296:1296:1008/104437.249359:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1296:1296:1008/104437.249411:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1296:1296:1008/104437.249504:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1296:1296:1008/104437.249553:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1296:1296:1008/104437.249630:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1296:1296:1008/104437.249680:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1296:1296:1008/104437.249763:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1296:1296:1008/104437.249811:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1296:1296:1008/104437.249906:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1296:1296:1008/104437.249959:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1296:1296:1008/104437.251623:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1296:1296:1008/104437.251717:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1296:1296:1008/104437.251831:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1296:1296:1008/104437.251901:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1296:1296:1008/104437.251993:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1296:1296:1008/104437.252042:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1296:1296:1008/104437.252119:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1296:1296:1008/104437.252164:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1296:1296:1008/104437.252238:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1296:1296:1008/104437.252282:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1296:1296:1008/104437.252359:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1296:1296:1008/104437.252406:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1296:1296:1008/104437.252489:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1296:1296:1008/104437.252544:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1296:1507:1008/104438.925948:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1296:1507:1008/104439.487405:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** REFRESH ***
+Tue Oct  8 11:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Tue Oct  8 12:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Tue Oct  8 01:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Tue Oct  8 02:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Tue Oct  8 03:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Tue Oct  8 04:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Tue Oct  8 05:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Tue Oct  8 06:02:01 PM MDT 2024
+***************
+
+
+*** KIOSK ***
+Wed Oct  9 09:44:31 AM MDT 2024
+*************
+
+[1243:1293:1009/094507.113359:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1316:1316:1009/094507.714981:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1009/094507.740790:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1009/094507.740949:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1009/094507.740995:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1009/094507.741069:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1009/094507.741115:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1009/094507.741181:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1009/094507.741225:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1009/094507.741288:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1009/094507.741350:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1009/094507.741418:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1009/094507.741467:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1009/094507.741534:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1009/094507.741579:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1009/094507.743041:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1009/094507.743106:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1009/094507.743194:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1009/094507.743249:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1009/094507.743323:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1009/094507.743366:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1009/094507.743449:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1009/094507.743533:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1009/094507.743624:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1009/094507.743672:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1009/094507.743748:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1009/094507.743794:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1009/094507.743863:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1009/094507.743917:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1401:1009/094526.106933:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1316:1401:1009/094526.424030:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** REFRESH ***
+Wed Oct  9 10:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Wed Oct  9 11:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Wed Oct  9 12:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Wed Oct  9 01:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Wed Oct  9 02:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Wed Oct  9 03:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Wed Oct  9 04:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Wed Oct  9 05:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Wed Oct  9 06:02:01 PM MDT 2024
+***************
+
+[1243:1243:1009/190013.654267:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+
+*** KIOSK ***
+Fri Oct 11 07:01:48 AM MDT 2024
+*************
+
+
+*** REFRESH ***
+Fri Oct 11 07:02:06 AM MDT 2024
+***************
+
+There are no windows in the stack
+Invalid window '%1'
+Usage: windowactivate [options] [window=%1]
+--sync    - only exit once the window is active (is visible + active)
+If no window is given, %1 is used. See WINDOW STACK in xdotool(1)
+[1240:1300:1011/070208.930808:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1320:1320:1011/070209.555688:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1011/070209.596912:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1011/070209.597103:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1011/070209.597171:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1011/070209.597238:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1011/070209.597283:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1011/070209.597398:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1011/070209.597443:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1011/070209.597504:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1011/070209.597560:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1011/070209.597625:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1011/070209.597665:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1011/070209.597745:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1011/070209.597786:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1011/070209.599221:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1011/070209.599349:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1011/070209.599419:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1011/070209.599467:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1011/070209.599527:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1011/070209.599581:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1011/070209.599640:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1011/070209.599680:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1011/070209.599744:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1011/070209.599782:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1011/070209.599850:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1011/070209.599890:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1320:1011/070209.599970:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1320:1320:1011/070209.600009:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1320:1404:1011/070210.714848:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1320:1404:1011/070210.976634:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** REFRESH ***
+Fri Oct 11 08:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct 11 09:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct 11 10:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct 11 11:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct 11 12:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct 11 01:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct 11 02:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct 11 03:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct 11 04:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct 11 05:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct 11 06:02:01 PM MDT 2024
+***************
+
+
+*** REFRESH ***
+Fri Oct 11 07:02:01 PM MDT 2024
+***************
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+*** KIOSK ***
+Mon Oct 14 07:00:50 AM MDT 2024
+*************
+
+[1322:1390:1014/070054.137212:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1411:1411:1014/070054.782726:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1411:1411:1014/070054.810425:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1411:1411:1014/070054.810564:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1411:1411:1014/070054.810604:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1411:1411:1014/070054.810665:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1411:1411:1014/070054.810701:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1411:1411:1014/070054.810756:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1411:1411:1014/070054.810791:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1411:1411:1014/070054.810845:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1411:1411:1014/070054.810882:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1411:1411:1014/070054.810936:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1411:1411:1014/070054.810969:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1411:1411:1014/070054.811024:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1411:1411:1014/070054.811062:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1411:1411:1014/070054.812387:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1411:1411:1014/070054.812427:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1411:1411:1014/070054.812483:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1411:1411:1014/070054.812522:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1411:1411:1014/070054.812575:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1411:1411:1014/070054.812610:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1411:1411:1014/070054.812664:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1411:1411:1014/070054.812698:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1411:1411:1014/070054.812757:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1411:1411:1014/070054.812790:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1411:1411:1014/070054.812843:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1411:1411:1014/070054.812876:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1411:1411:1014/070054.812932:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1411:1411:1014/070054.812966:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1411:1495:1014/070055.986966:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1411:1495:1014/070056.245059:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** REFRESH ***
+Mon Oct 14 07:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Mon Oct 14 08:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Mon Oct 14 09:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Mon Oct 14 10:02:01 AM MDT 2024
+***************
+
+
+*** REFRESH ***
+Mon Oct 14 11:02:01 AM MDT 2024
+***************
+
+opening a connection to the CEC adapter...
+
+*** CEC-Controls ***
+
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: yes
+vendor:        Samsung
+osd string:    TV
+CEC version:   1.4
+power status:  on
+language:      eng
+
+* Changing state to * 
+new state: standby
+address: 0.0.0.0
+
+opening a connection to the CEC adapter...
+
+
+*** done ***
+
+
+
+*** CEC-Controls ***
+Mon Oct 14 11:25:37 AM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: no
+vendor:        Samsung
+osd string:    TV
+CEC version:   unknown
+power status:  standby
+language:      eng
+
+* Changing state to * 
+new state: on
+address: 0.0.0.0
+
+opening a connection to the CEC adapter...
+
+
+*** done ***
+
+
+
+*** CEC-Controls ***
+Mon Oct 14 11:26:07 AM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: yes
+vendor:        Samsung
+osd string:    TV
+CEC version:   1.4
+power status:  on
+language:      eng
+
+* Changing state to * 
+new state: standby
+address: 0.0.0.0
+
+opening a connection to the CEC adapter...
+
+
+*** done ***
+
+
+
+*** CEC-Controls ***
+Mon Oct 14 11:27:40 AM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: yes
+vendor:        Samsung
+osd string:    TV
+CEC version:   1.4
+power status:  on
+language:      eng
+
+* Changing state to * 
+new state: standby
+address: 0.0.0.0
+
+opening a connection to the CEC adapter...
+
+
+*** done ***
+
+
+
+*** KIOSK ***
+Mon Oct 14 11:30:05 AM MDT 2024
+*************
+
+
+*** CEC-Controls ***
+Mon Oct 14 11:30:05 AM MDT 2024
+
+* Current State * 
+
+
+* Changing state to * 
+new state: on
+address: 0.0.0.0
+
+opening a connection to the CEC adapter...
+ERROR:   [               7]	could not open a connection (try 1)
+ERROR:   [            1007]	could not open a connection (try 2)
+ERROR:   [            2007]	could not open a connection (try 3)
+ERROR:   [            3008]	could not open a connection (try 4)
+ERROR:   [            4008]	could not open a connection (try 5)
+ERROR:   [            5008]	could not open a connection (try 6)
+ERROR:   [            6008]	could not open a connection (try 7)
+ERROR:   [            7008]	could not open a connection (try 8)
+ERROR:   [            8008]	could not open a connection (try 9)
+ERROR:   [            9008]	could not open a connection (try 10)
+unable to open the device on port /dev/cec0
+ERROR:   [           10008]	could not start CEC communications
+
+
+*** done ***
+
+
+[1264:1299:1014/113031.606278:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1264:1299:1014/113032.609043:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1319:1319:1014/113040.800399:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1319:1319:1014/113040.828430:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1319:1319:1014/113040.829048:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1319:1319:1014/113040.829363:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1319:1319:1014/113040.829590:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1319:1319:1014/113040.829880:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1319:1319:1014/113040.830152:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1319:1319:1014/113040.830220:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1319:1319:1014/113040.830374:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1319:1319:1014/113040.830455:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1319:1319:1014/113040.830788:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1319:1319:1014/113040.831107:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1319:1319:1014/113040.831520:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1319:1319:1014/113040.832295:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1319:1319:1014/113040.834399:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1319:1319:1014/113040.834475:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1319:1319:1014/113040.834581:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1319:1319:1014/113040.834635:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1319:1319:1014/113040.834709:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1319:1319:1014/113040.834755:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1319:1319:1014/113040.834839:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1319:1319:1014/113040.834889:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1319:1319:1014/113040.834966:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1319:1319:1014/113040.835007:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1319:1319:1014/113040.835077:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1319:1319:1014/113040.835118:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1319:1319:1014/113040.835194:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1319:1319:1014/113040.835237:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1319:1404:1014/113041.772922:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1319:1404:1014/113042.063736:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** CEC-Controls ***
+Mon Oct 14 11:32:09 AM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: no
+vendor:        Samsung
+osd string:    TV
+CEC version:   unknown
+power status:  standby
+language:      eng
+
+* Changing state to * 
+new state: on
+address: 0.0.0.0
+
+opening a connection to the CEC adapter...
+
+
+*** done ***
+
+
+
+*** KIOSK ***
+Mon Oct 14 11:32:56 AM MDT 2024
+*************
+
+
+*** CEC-Controls ***
+Mon Oct 14 11:32:56 AM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: yes
+vendor:        Samsung
+osd string:    TV
+CEC version:   1.4
+power status:  on
+language:      eng
+
+* Changing state to * 
+new state: on
+address: 0.0.0.0
+
+opening a connection to the CEC adapter...
+
+
+*** done ***
+
+
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+Can't open display :0
+Authorization required, but no authorization protocol specified
+
+[1559:1559:1014/113308.267779:ERROR:ozone_platform_x11.cc(244)] Missing X server or $DISPLAY
+[1559:1559:1014/113308.267849:ERROR:env.cc(258)] The platform failed to initialize.  Exiting.
+
+*** CEC-Controls ***
+Mon Oct 14 11:34:10 AM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: yes
+vendor:        Samsung
+osd string:    TV
+CEC version:   1.4
+power status:  on
+language:      eng
+
+* Changing state to * 
+new state: standby
+address: 0.0.0.0
+
+opening a connection to the CEC adapter...
+
+
+*** done ***
+
+
+
+*** CEC-Controls ***
+Mon Oct 14 11:34:31 AM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: no
+vendor:        Samsung
+osd string:    TV
+CEC version:   unknown
+power status:  standby
+language:      eng
+
+* Changing state to * 
+new state: on
+address: 0.0.0.0
+
+opening a connection to the CEC adapter...
+
+
+*** done ***
+
+
+
+*** CEC-Controls ***
+Mon Oct 14 11:36:20 AM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: yes
+vendor:        Samsung
+osd string:    TV
+CEC version:   1.4
+power status:  on
+language:      eng
+
+* Changing state to * 
+new state: standby
+address: 0.0.0.0
+
+opening a connection to the CEC adapter...
+
+
+*** done ***
+
+
+
+*** CEC-Controls ***
+Mon Oct 14 11:37:08 AM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: no
+vendor:        Samsung
+osd string:    TV
+CEC version:   unknown
+power status:  standby
+language:      eng
+
+* Changing state to * 
+new state: on
+address: 0.0.0.0
+
+opening a connection to the CEC adapter...
+
+
+*** done ***
+
+
+
+*** KIOSK ***
+Mon Oct 14 11:37:24 AM MDT 2024
+*************
+
+
+*** CEC-Controls ***
+Mon Oct 14 11:37:24 AM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: no
+vendor:        Unknown
+osd string:    TV
+CEC version:   unknown
+power status:  unknown
+language:      ???
+
+* Changing state to * 
+new state: on
+address: 0.0.0.0
+
+opening a connection to the CEC adapter...
+
+
+*** done ***
+
+
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+Can't open display :0
+[1868:1868:1014/113731.919021:ERROR:zygote_host_impl_linux.cc(101)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+
+*** CEC-Controls ***
+Mon Oct 14 11:38:32 AM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: yes
+vendor:        Samsung
+osd string:    TV
+CEC version:   1.4
+power status:  on
+language:      eng
+
+* Changing state to * 
+new state: standby
+address: 0.0.0.0
+
+opening a connection to the CEC adapter...
+
+
+*** done ***
+
+
+
+*** KIOSK ***
+Mon Oct 14 11:40:31 AM MDT 2024
+*************
+
+
+*** CEC-Controls ***
+Mon Oct 14 11:40:31 AM MDT 2024
+
+* Current State * 
+
+
+* Changing state to * 
+new state: on
+address: 0.0.0.0
+
+opening a connection to the CEC adapter...
+ERROR:   [               7]	could not open a connection (try 1)
+ERROR:   [            1007]	could not open a connection (try 2)
+ERROR:   [            2007]	could not open a connection (try 3)
+ERROR:   [            3007]	could not open a connection (try 4)
+ERROR:   [            4007]	could not open a connection (try 5)
+ERROR:   [            5008]	could not open a connection (try 6)
+ERROR:   [            6008]	could not open a connection (try 7)
+ERROR:   [            7008]	could not open a connection (try 8)
+ERROR:   [            8008]	could not open a connection (try 9)
+ERROR:   [            9008]	could not open a connection (try 10)
+unable to open the device on port /dev/cec0
+ERROR:   [           10008]	could not start CEC communications
+
+
+*** done ***
+
+
+[1283:1323:1014/114056.335572:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1346:1346:1014/114056.895538:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1346:1346:1014/114056.901528:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1346:1346:1014/114056.901670:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1346:1346:1014/114056.901745:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1346:1346:1014/114056.901820:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1346:1346:1014/114056.901877:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1346:1346:1014/114056.901980:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1346:1346:1014/114056.902026:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1346:1346:1014/114056.902097:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1346:1346:1014/114056.902140:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1346:1346:1014/114056.902202:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1346:1346:1014/114056.902258:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1346:1346:1014/114056.902346:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1346:1346:1014/114056.902389:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1346:1346:1014/114056.903825:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1346:1346:1014/114056.903898:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1346:1346:1014/114056.903981:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1346:1346:1014/114056.904029:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1346:1346:1014/114056.904106:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1346:1346:1014/114056.904145:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1346:1346:1014/114056.904220:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1346:1346:1014/114056.904258:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1346:1346:1014/114056.904324:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1346:1346:1014/114056.904364:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1346:1346:1014/114056.904432:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1346:1346:1014/114056.904468:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1346:1346:1014/114056.904563:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1346:1346:1014/114056.904750:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1346:1429:1014/114106.867533:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1346:1429:1014/114107.201290:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** CEC-Controls ***
+Mon Oct 14 11:41:07 AM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: no
+vendor:        Samsung
+osd string:    TV
+CEC version:   unknown
+power status:  standby
+language:      eng
+
+* Changing state to * 
+new state: on
+address: 0.0.0.0
+
+opening a connection to the CEC adapter...
+
+
+*** done ***
+
+
+
+*** CEC-Controls ***
+Mon Oct 14 11:45:30 AM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: yes
+vendor:        Samsung
+osd string:    TV
+CEC version:   1.4
+power status:  on
+language:      eng
+
+* Changing state to * 
+new state: standby
+address: 0.0.0.0
+
+ATTEMPT: 1
+opening a connection to the CEC adapter...
+The command was successful after 1 attempts.
+
+
+*** done ***
+
+
+
+*** CEC-Controls ***
+Mon Oct 14 11:46:02 AM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: no
+vendor:        Samsung
+osd string:    TV
+CEC version:   unknown
+power status:  standby
+language:      eng
+
+* Changing state to * 
+new state: on
+address: 0.0.0.0
+
+ATTEMPT: 1
+opening a connection to the CEC adapter...
+The command was successful after 1 attempts.
+
+
+*** done ***
+
+
+
+*** CEC-Controls ***
+Mon Oct 14 11:46:48 AM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: yes
+vendor:        Samsung
+osd string:    TV
+CEC version:   1.4
+power status:  on
+language:      eng
+
+* Changing state to * 
+new state: standby
+address: 0.0.0.0
+
+ATTEMPT: 1
+opening a connection to the CEC adapter...
+The command was successful after 1 attempts.
+
+
+*** done ***
+
+
+
+*** KIOSK ***
+Mon Oct 14 11:48:30 AM MDT 2024
+*************
+
+
+*** CEC-Controls ***
+Mon Oct 14 11:48:30 AM MDT 2024
+
+* Current State * 
+
+
+* Changing state to * 
+new state: on
+address: 0.0.0.0
+
+ATTEMPT: 1
+opening a connection to the CEC adapter...
+ERROR:   [               7]	could not open a connection (try 1)
+ERROR:   [            1009]	could not open a connection (try 2)
+ERROR:   [            2010]	could not open a connection (try 3)
+ERROR:   [            3011]	could not open a connection (try 4)
+ERROR:   [            4011]	could not open a connection (try 5)
+ERROR:   [            5012]	could not open a connection (try 6)
+ERROR:   [            6013]	could not open a connection (try 7)
+ERROR:   [            7013]	could not open a connection (try 8)
+ERROR:   [            8013]	could not open a connection (try 9)
+ERROR:   [            9014]	could not open a connection (try 10)
+unable to open the device on port /dev/cec0
+ERROR:   [           10014]	could not start CEC communications
+ATTEMPT: 2
+opening a connection to the CEC adapter...
+ERROR:   [               7]	could not open a connection (try 1)
+ERROR:   [            1007]	could not open a connection (try 2)
+ERROR:   [            2008]	could not open a connection (try 3)
+ERROR:   [            3008]	could not open a connection (try 4)
+ERROR:   [            4008]	could not open a connection (try 5)
+ERROR:   [            5008]	could not open a connection (try 6)
+ERROR:   [            6009]	could not open a connection (try 7)
+ERROR:   [            7009]	could not open a connection (try 8)
+ERROR:   [            8009]	could not open a connection (try 9)
+ERROR:   [            9009]	could not open a connection (try 10)
+unable to open the device on port /dev/cec0
+ERROR:   [           10009]	could not start CEC communications
+ATTEMPT: 3
+opening a connection to the CEC adapter...
+ERROR:   [               7]	could not open a connection (try 1)
+ERROR:   [            1007]	could not open a connection (try 2)
+ERROR:   [            2007]	could not open a connection (try 3)
+ERROR:   [            3008]	could not open a connection (try 4)
+ERROR:   [            4008]	could not open a connection (try 5)
+ERROR:   [            5008]	could not open a connection (try 6)
+ERROR:   [            6008]	could not open a connection (try 7)
+ERROR:   [            7008]	could not open a connection (try 8)
+ERROR:   [            8008]	could not open a connection (try 9)
+ERROR:   [            9009]	could not open a connection (try 10)
+unable to open the device on port /dev/cec0
+ERROR:   [           10009]	could not start CEC communications
+ATTEMPT: 4
+opening a connection to the CEC adapter...
+ERROR:   [               7]	could not open a connection (try 1)
+ERROR:   [            1008]	could not open a connection (try 2)
+ERROR:   [            2008]	could not open a connection (try 3)
+ERROR:   [            3008]	could not open a connection (try 4)
+ERROR:   [            4008]	could not open a connection (try 5)
+ERROR:   [            5009]	could not open a connection (try 6)
+ERROR:   [            6009]	could not open a connection (try 7)
+ERROR:   [            7009]	could not open a connection (try 8)
+ERROR:   [            8009]	could not open a connection (try 9)
+ERROR:   [            9009]	could not open a connection (try 10)
+unable to open the device on port /dev/cec0
+ATTEMPT: 5
+opening a connection to the CEC adapter...
+ERROR:   [               7]	could not open a connection (try 1)
+ERROR:   [            1007]	could not open a connection (try 2)
+ERROR:   [            2007]	could not open a connection (try 3)
+ERROR:   [            3007]	could not open a connection (try 4)
+ERROR:   [            4007]	could not open a connection (try 5)
+ERROR:   [            5008]	could not open a connection (try 6)
+ERROR:   [            6008]	could not open a connection (try 7)
+ERROR:   [            7008]	could not open a connection (try 8)
+ERROR:   [            8008]	could not open a connection (try 9)
+ERROR:   [            9008]	could not open a connection (try 10)
+unable to open the device on port /dev/cec0
+ERROR:   [           10008]	could not start CEC communications
+The command failed after 5 attempts.
+
+
+*** done ***
+
+
+[1285:1319:1014/114934.504022:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1339:1339:1014/114935.115480:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1339:1339:1014/114935.123291:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1339:1339:1014/114935.123559:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1339:1339:1014/114935.123612:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1339:1339:1014/114935.123691:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1339:1339:1014/114935.123770:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1339:1339:1014/114935.123874:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1339:1339:1014/114935.123956:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1339:1339:1014/114935.124025:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1339:1339:1014/114935.124103:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1339:1339:1014/114935.124253:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1339:1339:1014/114935.124469:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1339:1339:1014/114935.124586:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1339:1339:1014/114935.124675:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1339:1339:1014/114935.126121:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1339:1339:1014/114935.126230:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1339:1339:1014/114935.126358:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1339:1339:1014/114935.126436:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1339:1339:1014/114935.126541:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1339:1339:1014/114935.126663:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1339:1339:1014/114935.126791:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1339:1339:1014/114935.126944:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1339:1339:1014/114935.127100:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1339:1339:1014/114935.127201:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1339:1339:1014/114935.127368:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1339:1339:1014/114935.127623:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1339:1339:1014/114935.127774:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1339:1339:1014/114935.127876:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1339:1424:1014/114936.031518:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1339:1424:1014/114936.381990:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** CEC-Controls ***
+Mon Oct 14 11:49:53 AM MDT 2024
+
+* Current State * 
+
+
+* Changing state to * 
+new state: on
+address: 0.0.0.0
+
+ATTEMPT: 1
+opening a connection to the CEC adapter...
+ERROR:   [              10]	could not open a connection (try 1)
+ERROR:   [            1010]	could not open a connection (try 2)
+ERROR:   [            2011]	could not open a connection (try 3)
+ERROR:   [            3011]	could not open a connection (try 4)
+ERROR:   [            4011]	could not open a connection (try 5)
+ERROR:   [            5011]	could not open a connection (try 6)
+ERROR:   [            6011]	could not open a connection (try 7)
+ERROR:   [            7011]	could not open a connection (try 8)
+ERROR:   [            8011]	could not open a connection (try 9)
+ERROR:   [            9012]	could not open a connection (try 10)
+unable to open the device on port /dev/cec0
+ATTEMPT: 2
+opening a connection to the CEC adapter...
+ERROR:   [               7]	could not open a connection (try 1)
+ERROR:   [            1008]	could not open a connection (try 2)
+ERROR:   [            2008]	could not open a connection (try 3)
+ERROR:   [            3008]	could not open a connection (try 4)
+ERROR:   [            4008]	could not open a connection (try 5)
+ERROR:   [            5008]	could not open a connection (try 6)
+ERROR:   [            6008]	could not open a connection (try 7)
+ERROR:   [            7008]	could not open a connection (try 8)
+ERROR:   [            8008]	could not open a connection (try 9)
+ERROR:   [            9008]	could not open a connection (try 10)
+signal caught: 2 - exiting
+signal caught: 2 - exiting
+unable to open the device on port /dev/cec0
+ERROR:   [           10009]	could not start CEC communications
+signal caught: 2 - exiting
+signal caught: 2 - exiting
+ATTEMPT: 3
+opening a connection to the CEC adapter...
+ERROR:   [               8]	could not open a connection (try 1)
+signal caught: 2 - exiting
+signal caught: 2 - exiting
+signal caught: 2 - exiting
+signal caught: 2 - exiting
+ERROR:   [            1008]	could not open a connection (try 2)
+signal caught: 2 - exiting
+signal caught: 2 - exiting
+signal caught: 2 - exiting
+signal caught: 2 - exiting
+ERROR:   [            2009]	could not open a connection (try 3)
+signal caught: 2 - exiting
+signal caught: 2 - exiting
+signal caught: 2 - exiting
+signal caught: 2 - exiting
+ERROR:   [            3009]	could not open a connection (try 4)
+signal caught: 2 - exiting
+signal caught: 2 - exiting
+signal caught: 2 - exiting
+signal caught: 2 - exiting
+signal caught: 2 - exiting
+ERROR:   [            4009]	could not open a connection (try 5)
+signal caught: 2 - exiting
+signal caught: 2 - exiting
+signal caught: 2 - exiting
+ERROR:   [            5009]	could not open a connection (try 6)
+signal caught: 2 - exiting
+ERROR:   [            6009]	could not open a connection (try 7)
+ERROR:   [            7009]	could not open a connection (try 8)
+ERROR:   [            8010]	could not open a connection (try 9)
+ERROR:   [            9010]	could not open a connection (try 10)
+unable to open the device on port /dev/cec0
+ATTEMPT: 4
+opening a connection to the CEC adapter...
+ERROR:   [              12]	could not open a connection (try 1)
+ERROR:   [            1013]	could not open a connection (try 2)
+ERROR:   [            2013]	could not open a connection (try 3)
+ERROR:   [            3013]	could not open a connection (try 4)
+ERROR:   [            4013]	could not open a connection (try 5)
+ERROR:   [            5013]	could not open a connection (try 6)
+ERROR:   [            6013]	could not open a connection (try 7)
+ERROR:   [            7013]	could not open a connection (try 8)
+ERROR:   [            8014]	could not open a connection (try 9)
+ERROR:   [            9014]	could not open a connection (try 10)
+unable to open the device on port /dev/cec0
+ATTEMPT: 5
+opening a connection to the CEC adapter...
+ERROR:   [              10]	could not open a connection (try 1)
+ERROR:   [            1010]	could not open a connection (try 2)
+ERROR:   [            2011]	could not open a connection (try 3)
+ERROR:   [            3012]	could not open a connection (try 4)
+ERROR:   [            4012]	could not open a connection (try 5)
+ERROR:   [            5012]	could not open a connection (try 6)
+ERROR:   [            6012]	could not open a connection (try 7)
+ERROR:   [            7012]	could not open a connection (try 8)
+ERROR:   [            8012]	could not open a connection (try 9)
+ERROR:   [            9013]	could not open a connection (try 10)
+unable to open the device on port /dev/cec0
+ERROR:   [           10013]	could not start CEC communications
+The command failed after 5 attempts.
+
+
+*** done ***
+
+
+
+*** CEC-Controls ***
+Mon Oct 14 11:55:01 AM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: no
+vendor:        Samsung
+osd string:    TV
+CEC version:   unknown
+power status:  standby
+language:      eng
+
+* Changing state to * 
+new state: standby
+address: 0.0.0.0
+
+ATTEMPT: 1
+opening a connection to the CEC adapter...
+The command was successful after 1 attempts.
+
+
+*** done ***
+
+
+[1285:1285:1014/115516.742281:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+
+*** KIOSK ***
+Mon Oct 14 11:56:58 AM MDT 2024
+*************
+
+
+*** CEC-Controls ***
+Mon Oct 14 11:56:58 AM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: no
+vendor:        Samsung
+osd string:    TV
+CEC version:   unknown
+power status:  standby
+language:      eng
+
+* Changing state to * 
+new state: on
+address: 0.0.0.0
+
+ATTEMPT: 1
+opening a connection to the CEC adapter...
+The command was successful after 1 attempts.
+
+
+*** done ***
+
+
+xrandr: cannot find mode 1920x1080
+[1279:1312:1014/115715.346354:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1332:1332:1014/115715.902952:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1332:1332:1014/115715.909697:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1332:1332:1014/115715.909926:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1332:1332:1014/115715.909995:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1332:1332:1014/115715.910087:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1332:1332:1014/115715.910139:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1332:1332:1014/115715.910217:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1332:1332:1014/115715.910268:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1332:1332:1014/115715.910351:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1332:1332:1014/115715.910404:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1332:1332:1014/115715.910496:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1332:1332:1014/115715.910545:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1332:1332:1014/115715.910629:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1332:1332:1014/115715.910676:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1332:1332:1014/115715.912098:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1332:1332:1014/115715.912168:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1332:1332:1014/115715.912248:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1332:1332:1014/115715.912307:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1332:1332:1014/115715.912384:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1332:1332:1014/115715.912432:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1332:1332:1014/115715.912502:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1332:1332:1014/115715.912553:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1332:1332:1014/115715.912631:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1332:1332:1014/115715.912678:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1332:1332:1014/115715.912751:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1332:1332:1014/115715.912799:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1332:1332:1014/115715.912866:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1332:1332:1014/115715.912913:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1332:1417:1014/115716.807110:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1332:1417:1014/115717.079015:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** REFRESH ***
+Mon Oct 14 12:02:02 PM MDT 2024
+***************
+
+
+*** KIOSK ***
+Mon Oct 14 12:03:09 PM MDT 2024
+*************
+
+
+*** CEC-Controls ***
+Mon Oct 14 12:03:09 PM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: yes
+vendor:        Samsung
+osd string:    TV
+CEC version:   1.4
+power status:  on
+language:      eng
+
+* Changing state to * 
+new state: on
+address: 0.0.0.0
+
+ATTEMPT: 1
+opening a connection to the CEC adapter...
+The command was successful after 1 attempts.
+
+
+*** done ***
+
+
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+Can't open display :0
+ATTEMPT: 1
+Authorization required, but no authorization protocol specified
+
+Can't open display :0
+ATTEMPT: 2
+Authorization required, but no authorization protocol specified
+
+Can't open display :0
+ATTEMPT: 3
+Authorization required, but no authorization protocol specified
+
+Can't open display :0
+ATTEMPT: 4
+Authorization required, but no authorization protocol specified
+
+Can't open display :0
+ATTEMPT: 5
+Authorization required, but no authorization protocol specified
+
+Can't open display :0
+The command failed after 5 attempts.
+Authorization required, but no authorization protocol specified
+
+[1526:1526:1014/120320.762393:ERROR:ozone_platform_x11.cc(244)] Missing X server or $DISPLAY
+[1526:1526:1014/120320.762489:ERROR:env.cc(258)] The platform failed to initialize.  Exiting.
+
+*** KIOSK ***
+Mon Oct 14 12:41:47 PM MDT 2024
+*************
+
+
+*** CEC-Controls ***
+Mon Oct 14 12:41:47 PM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: no
+vendor:        Samsung
+osd string:    TV
+CEC version:   1.4
+power status:  on
+language:      eng
+
+* Changing state to * 
+new state: on
+address: 0.0.0.0
+
+ATTEMPT: 1
+opening a connection to the CEC adapter...
+The command was successful after 1 attempts.
+
+
+*** done ***
+
+
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+Can't open display :0
+ATTEMPT: 1
+Authorization required, but no authorization protocol specified
+
+Can't open display :0
+ATTEMPT: 2
+Authorization required, but no authorization protocol specified
+
+Can't open display :0
+ATTEMPT: 3
+Authorization required, but no authorization protocol specified
+
+Can't open display :0
+ATTEMPT: 4
+Authorization required, but no authorization protocol specified
+
+Can't open display :0
+ATTEMPT: 5
+Authorization required, but no authorization protocol specified
+
+Can't open display :0
+The command failed after 5 attempts.
+Authorization required, but no authorization protocol specified
+
+[1715:1715:1014/124200.272247:ERROR:ozone_platform_x11.cc(244)] Missing X server or $DISPLAY
+[1715:1715:1014/124200.272315:ERROR:env.cc(258)] The platform failed to initialize.  Exiting.
+
+*** KIOSK ***
+Mon Oct 14 12:42:19 PM MDT 2024
+*************
+
+
+*** CEC-Controls ***
+Mon Oct 14 12:42:19 PM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: no
+vendor:        Samsung
+osd string:    TV
+CEC version:   1.4
+power status:  on
+language:      eng
+
+* Changing state to * 
+new state: on
+address: 0.0.0.0
+
+ATTEMPT: 1
+opening a connection to the CEC adapter...
+The command was successful after 1 attempts.
+
+
+*** done ***
+
+
+ATTEMPT: 1
+The command was successful after 1 attempts.
+Opening in existing browser session.
+[1332:1417:1014/124233.308029:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** KIOSK ***
+Mon Oct 14 12:43:16 PM MDT 2024
+*************
+
+
+*** CEC-Controls ***
+Mon Oct 14 12:43:16 PM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: no
+vendor:        Samsung
+osd string:    TV
+CEC version:   1.4
+power status:  on
+language:      eng
+
+* Changing state to * 
+new state: on
+address: 0.0.0.0
+
+ATTEMPT: 1
+opening a connection to the CEC adapter...
+The command was successful after 1 attempts.
+
+
+*** done ***
+
+
+ATTEMPT: 1
+The command was successful after 1 attempts.
+Opening in existing browser session.
+[1332:1417:1014/124329.324295:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1279:1279:1014/124338.825582:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+
+*** KIOSK ***
+Mon Oct 14 12:44:20 PM MDT 2024
+*************
+
+
+*** CEC-Controls ***
+Mon Oct 14 12:44:20 PM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: no
+vendor:        Samsung
+osd string:    TV
+CEC version:   unknown
+power status:  standby
+language:      eng
+
+* Changing state to * 
+new state: on
+address: 0.0.0.0
+
+ATTEMPT: 1
+opening a connection to the CEC adapter...
+The command was successful after 1 attempts.
+
+
+*** done ***
+
+
+xrandr: cannot find mode 1920x1080
+ATTEMPT: 1
+xrandr: cannot find mode 1920x1080
+ATTEMPT: 2
+xrandr: cannot find mode 1920x1080
+ATTEMPT: 3
+xrandr: cannot find mode 1920x1080
+ATTEMPT: 4
+xrandr: cannot find mode 1920x1080
+ATTEMPT: 5
+xrandr: cannot find mode 1920x1080
+The command failed after 5 attempts.
+[1263:1296:1014/124437.397813:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1263:1296:1014/124438.403018:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1316:1316:1014/124454.919528:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1014/124454.923651:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1014/124454.923791:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1014/124454.923840:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1014/124454.923923:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1014/124454.923970:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1014/124454.924052:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1014/124454.924104:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1014/124454.924174:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1014/124454.924228:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1014/124454.924300:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1014/124454.924347:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1014/124454.924428:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1014/124454.924474:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1014/124454.925891:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1014/124454.925946:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1014/124454.926030:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1014/124454.926080:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1014/124454.926149:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1014/124454.926192:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1014/124454.926260:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1014/124454.926314:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1014/124454.926388:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1014/124454.926436:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1014/124454.926510:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1014/124454.926560:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1316:1316:1014/124454.926632:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1316:1316:1014/124454.926675:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1263:1263:1014/124455.504058:ERROR:network_service_instance_impl.cc(613)] Network service crashed, restarting service.
+[1316:1415:1014/124456.120613:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1316:1415:1014/124456.423325:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** KIOSK ***
+Mon Oct 14 12:48:54 PM MDT 2024
+*************
+
+
+*** CEC-Controls ***
+Mon Oct 14 12:48:54 PM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: yes
+vendor:        Samsung
+osd string:    TV
+CEC version:   1.4
+power status:  on
+language:      eng
+
+* Changing state to * 
+new state: on
+address: 0.0.0.0
+
+ATTEMPT: 1
+opening a connection to the CEC adapter...
+The command was successful after 1 attempts.
+
+
+*** done ***
+
+
+ATTEMPT: 1
+The command was successful after 1 attempts.
+Opening in existing browser session.
+[1316:1415:1014/124905.844866:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1263:1263:1014/125103.721362:ERROR:zygote_communication_linux.cc(297)] Failed to send GetTerminationStatus message to zygote
+
+*** KIOSK ***
+Mon Oct 14 12:52:03 PM MDT 2024
+*************
+
+
+*** CEC-Controls ***
+Mon Oct 14 12:52:03 PM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: no
+vendor:        Samsung
+osd string:    TV
+CEC version:   unknown
+power status:  standby
+language:      eng
+
+* Changing state to * 
+new state: on
+address: 0.0.0.0
+
+ATTEMPT: 1
+opening a connection to the CEC adapter...
+The command was successful after 1 attempts.
+
+
+*** done ***
+
+
+ATTEMPT: 1
+The command was successful after 1 attempts.
+[1318:1352:1014/125320.564216:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1372:1372:1014/125321.199047:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1372:1372:1014/125321.201842:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1372:1372:1014/125321.202037:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1372:1372:1014/125321.202119:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1372:1372:1014/125321.202217:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1372:1372:1014/125321.202269:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1372:1372:1014/125321.202356:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1372:1372:1014/125321.202400:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1372:1372:1014/125321.202479:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1372:1372:1014/125321.202540:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1372:1372:1014/125321.202621:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1372:1372:1014/125321.202671:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1372:1372:1014/125321.202742:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1372:1372:1014/125321.202787:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1372:1372:1014/125321.204431:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1372:1372:1014/125321.204504:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1372:1372:1014/125321.204606:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1372:1372:1014/125321.204666:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1372:1372:1014/125321.204763:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1372:1372:1014/125321.204821:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1372:1372:1014/125321.204912:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1372:1372:1014/125321.204961:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1372:1372:1014/125321.205059:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1372:1372:1014/125321.205109:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1372:1372:1014/125321.205186:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1372:1372:1014/125321.205234:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1372:1372:1014/125321.205308:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1372:1372:1014/125321.205357:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1372:1453:1014/125321.930506:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1372:1453:1014/125322.237188:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** CEC-Controls ***
+Mon Oct 14 12:54:15 PM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: yes
+vendor:        Samsung
+osd string:    TV
+CEC version:   1.4
+power status:  on
+language:      eng
+
+* Changing state to * 
+new state: standby
+address: 0.0.0.0
+
+ATTEMPT: 1
+opening a connection to the CEC adapter...
+The command was successful after 1 attempts.
+
+
+*** done ***
+
+
+
+*** KIOSK ***
+Mon Oct 14 12:55:39 PM MDT 2024
+*************
+
+
+*** CEC-Controls ***
+Mon Oct 14 12:55:39 PM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: no
+vendor:        Samsung
+osd string:    TV
+CEC version:   unknown
+power status:  standby
+language:      eng
+
+* Changing state to * 
+new state: on
+address: 0.0.0.0
+
+ATTEMPT: 1
+opening a connection to the CEC adapter...
+The command was successful after 1 attempts.
+
+
+*** done ***
+
+
+ATTEMPT: 1
+The command was successful after 1 attempts.
+[1319:1353:1014/125657.434073:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1382:1382:1014/125657.947164:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1382:1382:1014/125657.950475:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1382:1382:1014/125657.950661:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1382:1382:1014/125657.950819:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1382:1382:1014/125657.950924:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1382:1382:1014/125657.950985:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1382:1382:1014/125657.951091:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1382:1382:1014/125657.951177:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1382:1382:1014/125657.951287:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1382:1382:1014/125657.951362:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1382:1382:1014/125657.951470:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1382:1382:1014/125657.951560:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1382:1382:1014/125657.951661:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1382:1382:1014/125657.951722:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1382:1382:1014/125657.953598:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1382:1382:1014/125657.954101:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1382:1382:1014/125657.954255:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1382:1382:1014/125657.954393:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1382:1382:1014/125657.954538:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1382:1382:1014/125657.954623:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1382:1382:1014/125657.954756:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1382:1382:1014/125657.954849:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1382:1382:1014/125657.954991:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1382:1382:1014/125657.955075:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1382:1382:1014/125657.955190:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1382:1382:1014/125657.955299:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1382:1382:1014/125657.955438:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1382:1382:1014/125657.955549:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1382:1454:1014/125658.850463:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1382:1454:1014/125659.118481:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+
+*** REFRESH ***
+Mon Oct 14 01:02:01 PM MDT 2024
+***************
+
+
+*** CEC-Controls ***
+Mon Oct 14 01:06:40 PM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: yes
+vendor:        Samsung
+osd string:    TV
+CEC version:   1.4
+power status:  on
+language:      eng
+
+* Changing state to * 
+new state: standby
+address: 0.0.0.0
+
+ATTEMPT: 1
+opening a connection to the CEC adapter...
+The command was successful after 1 attempts.
+
+
+*** done ***
+
+
+
+*** KIOSK ***
+Mon Oct 14 01:08:04 PM MDT 2024
+*************
+
+
+*** CEC-Controls ***
+Mon Oct 14 01:08:04 PM MDT 2024
+
+* Current State * 
+device #0: TV
+address:       0.0.0.0
+active source: no
+vendor:        Samsung
+osd string:    TV
+CEC version:   unknown
+power status:  standby
+language:      eng
+
+* Changing state to * 
+new state: on
+address: 0.0.0.0
+
+ATTEMPT: 1
+opening a connection to the CEC adapter...
+The command was successful after 1 attempts.
+
+
+*** done ***
+
+
+ATTEMPT: 1
+The command was successful after 1 attempts.
+[1318:1352:1014/130922.114130:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[1375:1375:1014/130922.789426:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1375:1375:1014/130922.792229:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1375:1375:1014/130922.792391:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1375:1375:1014/130922.792468:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1375:1375:1014/130922.792576:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1375:1375:1014/130922.792652:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1375:1375:1014/130922.792770:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1375:1375:1014/130922.792821:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1375:1375:1014/130922.792944:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1375:1375:1014/130922.792998:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1375:1375:1014/130922.793105:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1375:1375:1014/130922.793151:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1375:1375:1014/130922.793231:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1375:1375:1014/130922.793277:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1375:1375:1014/130922.794908:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1375:1375:1014/130922.794982:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1375:1375:1014/130922.795051:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1375:1375:1014/130922.795105:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1375:1375:1014/130922.795173:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1375:1375:1014/130922.795209:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1375:1375:1014/130922.795279:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1375:1375:1014/130922.795320:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1375:1375:1014/130922.795385:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1375:1375:1014/130922.795422:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1375:1375:1014/130922.795489:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1375:1375:1014/130922.795528:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1375:1375:1014/130922.795605:ERROR:gbm_wrapper.cc(79)] Failed to get fd for plane.: No such file or directory (2)
+[1375:1375:1014/130922.795642:ERROR:gbm_wrapper.cc(262)] Failed to export buffer to dma_buf: No such file or directory (2)
+[1375:1453:1014/130923.547779:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)
+[1375:1453:1014/130923.832930:ERROR:v4l2_utils.cc(572)] Could not open /dev/video10: No such file or directory (2)

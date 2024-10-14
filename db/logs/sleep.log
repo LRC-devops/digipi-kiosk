@@ -729,3 +729,37 @@ killed chrome jobs
 
 script started at: Thu Oct  3 10:15:54 AM MDT 2024
 started kiosk startup script
+
+
+*************************
+--------- SLEEP ---------
+Script started at: Mon Oct 14 11:36:20 AM MDT 2024
+-------------------------
+*************************
+
+
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+xset init
+xset force off completed
+killed chrome jobs
+============ DEV TEST COMPLETE ============
+
+
+************
+--- WAKE ---
+************
+
+
+script started at: Mon Oct 14 11:37:08 AM MDT 2024
+Authorization required, but no authorization protocol specified
+
+xset:  unable to open display ":0"
+started kiosk startup script

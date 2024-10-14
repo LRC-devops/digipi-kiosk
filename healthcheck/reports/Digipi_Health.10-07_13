@@ -1,0 +1,70 @@
+############################################
+Health Check Report (CPU,Process,Disk Usage, Memory)
+############################################
+Hostname : raspberrypi
+Kernel Version : Linux 6.6.51+rpt-rpi-2712 aarch64
+Uptime : 2
+Last Reboot Time : 2024-10-07 13:03
+Load Average : 0.24
+CPU Usage : 11.9%
+IO Wait : id,%
+
+*****************************************************************
+Health Status
+******************************************************************
+Number of cpu : 0
+Health Status : Normal
+
+******************************************************************
+Process
+*******************************************************************
+=> Top CPU using process/application
+    PID    PPID CMD                         %MEM %CPU
+   1335    1248 /usr/lib/chromium/chromium   3.7 24.1
+   1216    1165 /usr/lib/chromium/chromium   2.6  2.3
+   1276    1241 /usr/lib/chromium/chromium   2.5 13.4
+   1295    1216 /usr/lib/chromium/chromium   1.1  0.9
+    889     864 /usr/lib/xorg/Xorg :0 -seat  1.0  2.7
+   1241    1216 /usr/lib/chromium/chromium   0.8  0.0
+   1193    1174 gtk-nop                      0.8  0.0
+   1242    1216 /usr/lib/chromium/chromium   0.8  0.0
+   1334    1248 /usr/lib/chromium/chromium   0.8  0.0
+---------------------------------------------------------------------
+=> Top memory using process/application
+PID   COMMAND   %MEM
+1335  chromium  3.7
+1216  chromium  2.6
+1276  chromium  2.5
+1295  chromium  1.1
+889   Xorg      1.0
+1241  chromium  0.8
+1193  gtk-nop   0.8
+1242  chromium  0.8
+1334  chromium  0.8
+
+*****************************************************************
+Disk Usage && Disk Status
+******************************************************************
+/dev/mmcblk0p2  /               105G  free  7.0G  used  Normal
+/dev/mmcblk0p1  /boot/firmware  434M  free  77M   used  Normal
+
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.8G     0  3.8G   0% /dev
+tmpfs           805M  5.9M  799M   1% /run
+/dev/mmcblk0p2  117G  7.0G  105G   7% /
+tmpfs           4.0G  130M  3.9G   4% /dev/shm
+tmpfs           5.0M   48K  5.0M   1% /run/lock
+/dev/mmcblk0p1  510M   77M  434M  15% /boot/firmware
+tmpfs           805M  160K  805M   1% /run/user/1000
+tmpfs           805M  176K  805M   1% /run/user/1001
+
+****************************************************************
+Memory
+*****************************************************************
+=> Physical Memory
+-e Total	Used	Free	%Free
+7.86GB	0.00GB	0.19GB	2%
+
+=> Swap Memory
+-e Total	Used	Free	%Free
+0.19GB	0.00GB	0.19GB	100%
